@@ -1,0 +1,152 @@
+[
+  {
+    "name": "APPINSIGHTS_INSTRUMENTATIONKEY",
+    "value": "1ca04732-dafa-4924-b709-f66d6809da82",
+    "slotSetting": true
+  },
+  {
+    "name": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+    "value": "InstrumentationKey=1ca04732-dafa-4924-b709-f66d6809da82;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/;ApplicationId=4b92af36-dec4-41b2-be09-6d7f5a3049f1",
+    "slotSetting": false
+  },
+  {
+    "name": "AUTHORITYHOST",
+    "value": "login.microsoftonline.com",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobs.FetchSPSitesPages.Disabled",
+    "value": "1",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobs.FetchSPTenantSites.Disabled",
+    "value": "0",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobs.FetchSPTenantSubsites.Disabled",
+    "value": "0",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobsStorage",
+    "value": "DefaultEndpointsProtocol=https;AccountName=dwcentralapisa;AccountKey=dWdIZxTx4+aTYQ+wCEogWoF91d76zT+fykZdzygVMFvfElD0In0CNnLJTON7tKkkvlhqHrUhp4Iz+ASt+hNWUg==;EndpointSuffix=core.windows.net",
+    "slotSetting": false
+  },
+  {
+    "name": "CERTIFICATENAME",
+    "value": "adminCert",
+    "slotSetting": false
+  },
+  {
+    "name": "CLIENTID",
+    "value": "15621f8a-3bfa-4707-917a-9bf8144c30a9",
+    "slotSetting": false
+  },
+  {
+    "name": "COLUMNTOSEARCH",
+    "value": "PumaSeat",
+    "slotSetting": false
+  },
+  {
+    "name": "FUNCTIONS_EXTENSION_VERSION",
+    "value": "~4",
+    "slotSetting": false
+  },
+  {
+    "name": "FUNCTIONS_WORKER_RUNTIME",
+    "value": "dotnet-isolated",
+    "slotSetting": false
+  },
+  {
+    "name": "KVPATH",
+    "value": "https://pumadigitalworkplacekv.vault.azure.net",
+    "slotSetting": false
+  },
+  {
+    "name": "LOGINNAME",
+    "value": "srv_flow_o365@puma.com",
+    "slotSetting": false
+  },
+  {
+    "name": "PRIVATESITE",
+    "value": "https://puma-my.sharepoint.com",
+    "slotSetting": false
+  },
+  {
+    "name": "SASCREDENTIAL",
+    "value": "?sv=2022-11-02&ss=b&srt=o&sp=rwdlaciytfx&se=2024-09-14T14:18:26Z&st=2024-09-04T06:18:26Z&spr=https&sig=OheNBEhSGIdPrMQz7SKF0vDEjCBnQaFd6yXvkdnuLDA%3D",
+    "slotSetting": false
+  },
+  {
+    "name": "SHAREPOINTSCOPEURL",
+    "value": "https://puma.sharepoint.com/.default",
+    "slotSetting": false
+  },
+  {
+    "name": "SMTPSVCSECRETNAME",
+    "value": "SPServAccountPass",
+    "slotSetting": false
+  },
+  {
+    "name": "SPPAGESLIST",
+    "value": "https://dwcentralsa.blob.core.windows.net/sharepoint-api-data/SPSitePages.json",
+    "slotSetting": false
+  },
+  {
+    "name": "SPSITEDEDUPLICATELISTS",
+    "value": "https://dwcentralsa.blob.core.windows.net/sharepoint-api-data/SPSiteDeduplicateLists.json",
+    "slotSetting": false
+  },
+  {
+    "name": "SPSITELISTS",
+    "value": "https://dwcentralsa.blob.core.windows.net/sharepoint-api-data/SPSiteLists.json",
+    "slotSetting": false
+  },
+  {
+    "name": "SPTENANTSITES",
+    "value": "https://dwcentralsa.blob.core.windows.net/sharepoint-api-data/SPTenantSites.json",
+    "slotSetting": false
+  },
+  {
+    "name": "SPTENANTSUBSITES",
+    "value": "https://dwcentralsa.blob.core.windows.net/sharepoint-api-data/SPTenantSubsites.json",
+    "slotSetting": false
+  },
+  {
+    "name": "STORAGEACCOUNT",
+    "value": "https://dwcentralsa.blob.core.windows.net",
+    "slotSetting": false
+  },
+  {
+    "name": "STORAGECONTAINER",
+    "value": "sharepoint-api-data",
+    "slotSetting": false
+  },
+  {
+    "name": "TENANTID",
+    "value": "cf404960-c50f-46d2-8bf3-a3c957283b86",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_APPINSIGHTS_ENCRYPTEDAPIKEY",
+    "value": "{\"ApiKey\":\"hFg1q4tC0NFkjBXisTWpYybGA/lzsRPNTzHqzGHKlgHt3BuOq9AuzP4112RgH1iV48wTsIsYMzqupf3WoupTw4pN2ntPlqmPFFNFv7B5c3YID5TM6y5sp8fCEteLGl5lBv7XIpHpidfF0ah94nqKCH+p2DOWfjc4S30F4e5i/bXnEHFWNfyg5cuIdmPagqXS3HFfVbN0SRdaqoOO94Kgsy4NvmMUCi8qHVxRG4ZdnCamUtMvmEf02o/4Xed+JovoiOdLV/LKvbOTggjyjpQPReXymoJpYcsRyeJIKGTIfNSJsBqaugQqVRTd7MOXNLoAPV2iXfm7/ZyqBgISn0o8lA==\",\"AppId\":\"4b92af36-dec4-41b2-be09-6d7f5a3049f1\"}",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_ENABLE_SYNC_UPDATE_SITE",
+    "value": "true",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_RUN_FROM_PACKAGE",
+    "value": "1",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_USE_PLACEHOLDER_DOTNETISOLATED",
+    "value": "1",
+    "slotSetting": false
+  }
+]

@@ -1,0 +1,739 @@
+{
+  "info": [
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "SiteId": "puma.sharepoint.com,a30bcc35-13ac-490c-a1ab-c025d9052440,79e5bf9b-1ffe-4b9f-9610-bfcf16a76e6b",
+      "ListName": "Calendar",
+      "ListId": "9fac1058-3b9d-4b34-943e-51eb9ef8b2fc",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201042",
+      "SiteId": "puma.sharepoint.com,1fb59670-3965-409b-8e36-75ae4a4e1c34,7a78ecbf-d718-4328-b768-e19000d2b79a",
+      "ListName": "Calendar Employee Voice Events",
+      "ListId": "564e5ade-2c38-44e2-8ce2-ab134c26ce69",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201003",
+      "SiteId": "puma.sharepoint.com,eb19c056-26ee-4302-97f4-c115000c81dc,f7953cdc-fee4-405e-834a-2bc81d1a2173",
+      "ListName": "Calendar",
+      "ListId": "5eb51efb-3dc9-44d5-b040-c9d97e85359e",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200949",
+      "SiteId": "puma.sharepoint.com,75eda61e-4c04-4608-add0-535b084f33eb,f53a0a7c-d3d6-4c00-b1ca-5c1cfddc23ce",
+      "ListName": "Calendar_AH25LF",
+      "ListId": "8d3c1294-adf4-4734-89eb-ca6c6fa09554",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100008",
+      "SiteId": "puma.sharepoint.com,67973fc8-cde1-4945-a137-3f16d43786de,3853f12d-d52f-4c9e-84a2-c8a4442948e9",
+      "ListName": "Calendar",
+      "ListId": "c025e6a1-f839-419e-b7b1-12c3c138429b",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "SiteId": "puma.sharepoint.com,61b4232b-4ac9-4ccb-ad30-ff8d3e3e9984,b302f647-8f05-4aaa-be06-d5c780c4f679",
+      "ListName": "Calendar Community Call",
+      "ListId": "c68e8103-6ca0-400c-a8f0-3dcf2e5b80d7",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/womeninit",
+      "SiteId": "puma.sharepoint.com,0e359f7d-222d-4073-b987-bb11a2f30bd0,837faaeb-f16b-4e67-9f38-a75c6330091f",
+      "ListName": "Calendar",
+      "ListId": "740b1562-9094-4699-b167-382d92d56d62",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200919",
+      "SiteId": "puma.sharepoint.com,e47f2e55-4eda-4754-8b5a-263076776684,41f6a1ce-d6fc-4168-bf76-1a376ce73030",
+      "ListName": "Calendar Test1",
+      "ListId": "2766d1b2-92fb-4532-8465-1d6a8101b2b8",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200917",
+      "SiteId": "puma.sharepoint.com,429ad687-30b2-4281-8cd2-a8a72410e086,ef4f95c9-5ed4-4827-a35b-e2e85124300e",
+      "ListName": "Calendar Employee Card Migration",
+      "ListId": "66bddafa-219f-4cc8-b48a-4c10d6163d55",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200914",
+      "SiteId": "puma.sharepoint.com,eb59d63e-db17-45cc-a72f-44fa5ade9cd6,9fb042d1-85f7-4459-b73e-a48f3f71f66a",
+      "ListName": "Booking App Calendar",
+      "ListId": "4adae2c5-c286-4976-9528-f2d2e249b4b8",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200906",
+      "SiteId": "puma.sharepoint.com,204df739-d7a8-49e0-a40b-231498ba21de,1a4c1f8e-285f-4852-9b79-f658a3ac04d8",
+      "ListName": "ARGOS Calendar",
+      "ListId": "decda4fc-7f63-461e-803d-c3339750f7f0",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/JericoStreamTestsite",
+      "SiteId": "puma.sharepoint.com,24cfe3d1-017b-4bc3-be69-ff7a98489f33,586f1dca-1231-4365-8be3-1cb2212d74e6",
+      "ListName": "Calendar",
+      "ListId": "59b94dc6-6178-4efb-857c-69394d32b647",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504051-ORGALogisticsSummit",
+      "SiteId": "puma.sharepoint.com,6d0c3483-808a-43f7-9fda-52f33060d77a,175a071f-5ed5-4efe-abb6-5b4699c6a06c",
+      "ListName": "Calendar test",
+      "ListId": "dd8d4c69-63ef-4475-a265-3df41c7ccbdd",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200848",
+      "SiteId": "puma.sharepoint.com,536c38f5-6f14-438b-8f6d-f6dcd3bc67e3,f7447648-8516-4a3e-a2ba-d0ad35981e6b",
+      "ListName": "Calendar",
+      "ListId": "c45dfdd5-d685-43bf-b414-a9f6214a8195",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-200003",
+      "SiteId": "puma.sharepoint.com,51b48ba3-304b-495f-98c0-d08b293e3db8,635b5864-b258-4997-9b56-7d9e56f7c327",
+      "ListName": "Calendar1",
+      "ListId": "e17818ba-88b6-4838-90d7-c42a0391c108",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200823",
+      "SiteId": "puma.sharepoint.com,ade50066-3f8b-45fb-b1d9-632ee2275459,f7872bca-7863-434b-b735-55b16bb037a4",
+      "ListName": "Calendar Puma IT Trianings",
+      "ListId": "3a2fdc5a-78b7-4121-b47a-eac77bfd9155",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504918",
+      "SiteId": "puma.sharepoint.com,f03c1ef6-31dd-4b85-9c9a-1c65dc3175f5,28d7f2db-a076-4336-a90f-bf88489fbeee",
+      "ListName": "Calendar",
+      "ListId": "642e9cff-e530-40e8-aa5f-bcd3271fefa7",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200259",
+      "SiteId": "puma.sharepoint.com,6f113cdc-a30c-463f-b614-e8a342bc6fdc,d944c9b9-3d78-4544-ade1-44134f20fc75",
+      "ListName": "Calendar",
+      "ListId": "8045f2c1-f633-4cd8-8a49-95fb6a2fb7f4",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200235",
+      "SiteId": "puma.sharepoint.com,9d2847b8-506c-45b3-a883-d96987fb258d,648873d0-525d-4a15-b91c-b81c7de7ead5",
+      "ListName": "HUB calender",
+      "ListId": "8a373ba3-873d-40b2-bea4-410b5a2a805c",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300018",
+      "SiteId": "puma.sharepoint.com,14e40c99-eb14-488f-9528-572b323dda9e,ae0e6de7-38b4-45f6-952f-0a4980695190",
+      "ListName": "CalendarKM",
+      "ListId": "0f8d7055-81b5-4791-aeee-11bfc045c30f",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300136",
+      "SiteId": "puma.sharepoint.com,5ac15b3c-a07e-4128-b897-68d02d76f64b,dcacec00-bdcd-4747-b660-c2dfee8ed7b1",
+      "ListName": "Calendar_v1",
+      "ListId": "26c223c4-389a-4a74-a0f1-9d6bd5d32cc2",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300029",
+      "SiteId": "puma.sharepoint.com,a45b000d-a5c4-4c32-899f-ce5c9a47ec39,b9ef44bb-7d81-4e3b-af9d-f114190b636f",
+      "ListName": "Calendar",
+      "ListId": "c2291cf1-aab5-4373-a000-41aa83b5a37d",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200194",
+      "SiteId": "puma.sharepoint.com,e03cec88-ccd8-447a-be0c-51a00c6be941,fb022938-4bd8-474b-8076-bfb909c1951a",
+      "ListName": "Calendar ESAM After Work Sports",
+      "ListId": "23b3a3b3-08b9-4662-96ef-c9501e300b14",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503960",
+      "SiteId": "puma.sharepoint.com,625784d8-9cc8-4a69-8bea-6743611df170,fbb56583-0b0c-4c3e-ab3c-3c9aa21cd0c7",
+      "ListName": "Calendar TEST LILIAN2",
+      "ListId": "99ab386f-2128-4660-9208-28a679d0ffe9",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200193",
+      "SiteId": "puma.sharepoint.com,8593f2dd-2bf9-40b8-9d5b-8397a9abe86d,e0bd93da-24d0-4259-b884-ac0e1576ac14",
+      "ListName": "CalendarTest",
+      "ListId": "676acf37-1c94-48f6-b22d-2ed1712bfcad",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200192",
+      "SiteId": "puma.sharepoint.com,61564c75-788b-4970-83de-854ace1c907f,442dd75c-9a6d-4ecb-bc6e-eedceff71bff",
+      "ListName": "Calendar",
+      "ListId": "dfb000ce-de8e-4074-a3ee-254e4c72f6ab",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200214",
+      "SiteId": "puma.sharepoint.com,8280db5a-9bb6-4b36-89ac-ffaa8a5623b9,07c5a1c1-b4cd-4134-aa25-86017a257c4c",
+      "ListName": "Calendar - y@p home page",
+      "ListId": "2e357816-3f85-4e34-98ea-a5cdbc398e38",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503497",
+      "SiteId": "puma.sharepoint.com,56af41b5-9b7e-4407-b0a1-134604ab7b49,df7d7362-0ec7-47c3-a26b-44cdd0056119",
+      "ListName": "Calendar",
+      "ListId": "a3b9c75f-3841-48aa-8c4b-43b42d141c7f",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200209",
+      "SiteId": "puma.sharepoint.com,1824099f-d3fc-4156-a1a8-b59b876b9927,4bf5ae67-e394-499a-96fd-bff50b993044",
+      "ListName": "Calendar",
+      "ListId": "0a62d56e-f2b4-44ce-bd89-0f0f348ef3cf",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200177",
+      "SiteId": "puma.sharepoint.com,aeb5ab0f-0a99-43dc-9483-e7183dcb8b90,b4285de9-462f-4074-ae9d-2303b13fe216",
+      "ListName": "NextGen Calendar",
+      "ListId": "69e29fce-0d80-4115-90d8-2ab16547d438",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200176",
+      "SiteId": "puma.sharepoint.com,e871e6ad-bee4-4f3a-b14a-174de9dd844e,4da1a804-2a88-4d04-8c3c-725171b9d7c6",
+      "ListName": "Calendar_Advanced",
+      "ListId": "7c86700d-0566-4fcc-b5b9-4a9ff3d9988b",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200160",
+      "SiteId": "puma.sharepoint.com,0eac605e-615a-4e89-bb58-c589229eabd6,01896f27-a93a-4ce4-abf8-2020fc5cf7f2",
+      "ListName": "Calendar",
+      "ListId": "54c3d1d5-00ff-4887-b7fd-98bd5081ea23",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503193",
+      "SiteId": "puma.sharepoint.com,1ff29437-dd10-4c67-a534-d4931d2352d2,ef0000a3-49b2-4de1-99d0-603e9f3bc4de",
+      "ListName": "Women in IT Workshop 2023 Calendar",
+      "ListId": "40785a76-9ee8-4ca3-8c43-a1846064ecda",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "SiteId": "puma.sharepoint.com,316925ec-000e-467f-998a-f71e26b3dadd,a19892da-ebb4-4cfd-956a-80679e5e73fc",
+      "ListName": "AppBookingCalendar",
+      "ListId": "cac5921c-8a53-4626-8de2-3b8e1cc89c41",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200154",
+      "SiteId": "puma.sharepoint.com,115bfea4-ea93-4607-ba38-477dbb4ff83a,3824db0d-49bf-4e50-b115-ee940587c655",
+      "ListName": "Atlas Wiki Calendar",
+      "ListId": "eb127521-0ec3-45e0-a748-0c298b2156b1",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200150",
+      "SiteId": "puma.sharepoint.com,80a884cd-715d-413b-aec5-e6b6d85944d6,9d332f5a-a4d3-4ead-8153-ed4150b5028e",
+      "ListName": "Calendar",
+      "ListId": "47f78769-c42e-4a3b-878b-51468fc88d53",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200058",
+      "SiteId": "puma.sharepoint.com,089ed116-9aa1-41cf-ae8f-1731a10fcd64,cf3d12f5-5746-4de1-88bd-4ffc31339130",
+      "ListName": "WAW_IT_Events_calendar",
+      "ListId": "9986d7b7-5b1e-461d-9b0c-d2dc71785a76",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503038",
+      "SiteId": "puma.sharepoint.com,290196b0-be7b-4bf5-9fd0-cc0813af7736,7eb53972-5f69-4a36-92aa-86f242f84445",
+      "ListName": "Calendar",
+      "ListId": "7ae7b990-ca52-4854-84b5-29c9f051b11f",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200134",
+      "SiteId": "puma.sharepoint.com,425f1193-ed1f-4624-9f47-2d547d8094f0,790c7e3f-e89d-4f66-88ca-d3ffa96a5d6a",
+      "ListName": "Calendar",
+      "ListId": "13356a6b-14ff-4ba4-8513-15ee8efed3e8",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200097",
+      "SiteId": "puma.sharepoint.com,a16b8c30-8426-40ba-841a-00b1eabe94fa,cb471e5d-7141-455e-8187-9b2e7c3c12db",
+      "ListName": "Calendar for booking",
+      "ListId": "7fd7e247-7a10-4f9a-97b2-53ed486382a4",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/502372",
+      "SiteId": "puma.sharepoint.com,2e3eefdf-786a-4142-a05e-535d1080b1cc,19ed90db-0dd6-4e16-98fa-af41ed251fc3",
+      "ListName": "Calendar",
+      "ListId": "2d22b0e5-a1f5-4a46-b887-465bed08e80d",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/502162",
+      "SiteId": "puma.sharepoint.com,e45bf420-c4f5-4a00-897a-45b308844e60,cbb5af6a-e3b0-48d5-bad0-f8a80c265fe2",
+      "ListName": "Calendar",
+      "ListId": "f727e37f-9eb5-46e3-b7af-c6a33a463ce0",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200212",
+      "SiteId": "puma.sharepoint.com,3b30cd61-14aa-4ff5-a78b-a686e449eb90,155e46c6-0566-4cd6-8567-0922cb69e8e0",
+      "ListName": "Calendar",
+      "ListId": "20b87a46-5d7a-46db-8817-f6361a214ec3",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200382",
+      "SiteId": "puma.sharepoint.com,3af6b9c7-2417-47d1-8431-24ebab89b4a9,19c72514-bcf5-4608-9f95-6fa81fb7b2f3",
+      "ListName": "Calendar",
+      "ListId": "480eb434-51c6-4ba5-89a8-540a5a1c245e",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200381",
+      "SiteId": "puma.sharepoint.com,42ab1a4b-904b-4ade-a0bd-3a58d5ed0401,d4216b3e-37a3-4358-a83e-de7be3b1b518",
+      "ListName": "Calendar",
+      "ListId": "f862a761-e074-4048-bc04-7b87518a4218",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200374",
+      "SiteId": "puma.sharepoint.com,b789cfef-f03a-4efd-bb99-e9d45176cb47,d4216b3e-37a3-4358-a83e-de7be3b1b518",
+      "ListName": "Calendar1",
+      "ListId": "3b110e1e-526b-4e8b-95df-919a1066be83",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200372",
+      "SiteId": "puma.sharepoint.com,5f9c30bc-28c1-4d6f-b196-e9a703d056b9,68dc99e3-ca14-4d86-837c-71c81fdb6ef8",
+      "ListName": "Calendar",
+      "ListId": "2828d3d7-9a07-411a-88cb-b0cfe372077c",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200363",
+      "SiteId": "puma.sharepoint.com,f7f5d509-6c71-4be7-b884-13037dd5ee42,88f5caf4-da87-41c4-a817-c872de405a06",
+      "ListName": "Calendar",
+      "ListId": "a0ab11e0-7803-4701-85cf-12be2aa001c2",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200361",
+      "SiteId": "puma.sharepoint.com,741e2726-6fe9-4700-aaaf-a8592cdbc70e,01d0acc2-86dd-4646-94eb-e2f9c7d1b348",
+      "ListName": "CalendarBCNYoga",
+      "ListId": "0e3dac36-13dd-4d45-8ba4-3f0de17ace90",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/400051",
+      "SiteId": "puma.sharepoint.com,020fd229-13aa-4d07-bea6-109b68467e4a,27505526-ce2d-4343-8eac-3c8d5da91793",
+      "ListName": "Calendar",
+      "ListId": "d5bb2814-3e66-4bbd-84ef-28717e70f1b8",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "SiteId": "puma.sharepoint.com,f6646452-1121-4d2e-b8de-01957f21bd92,686b4906-d227-45fd-9715-a32152ec7940",
+      "ListName": "App05 App Calendar",
+      "ListId": "8dc926b6-c313-45f4-b604-3abb6b3748e6",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/Connect",
+      "SiteId": "puma.sharepoint.com,9e011fba-a2b7-49a9-b0e6-b34db769f607,f4dc20c8-6c0d-4ccc-a0ed-6e1fd60d0b69",
+      "ListName": "Calendar",
+      "ListId": "380c5b80-c805-4a10-a7bf-edff9993cdc1",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/500088",
+      "SiteId": "puma.sharepoint.com,3039a1ef-666d-4b39-90a3-54d85c547a02,e9ee8631-82ff-48e9-93a2-0ba6e16dd2b2",
+      "ListName": "Calendar Career page ",
+      "ListId": "f55ca215-fb1e-406e-b32c-d41ddc7613d2",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200115",
+      "SiteId": "puma.sharepoint.com,049bfaf4-153b-4ada-8f6c-99ee40ff94cc,9c3f8f34-9881-4d20-80fe-cf2431416e53",
+      "ListName": "Calendar Swop Shop 2023",
+      "ListId": "d677a4c5-b59f-48fe-aa9e-dd51bbd3d1e4",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200211",
+      "SiteId": "puma.sharepoint.com,124beb44-1b3b-44d2-8180-d6f15dbad943,a32bda27-b367-4113-974c-ba54e655475a",
+      "ListName": "Calendar Treinamentos",
+      "ListId": "6b5a55f6-eca2-41aa-8f1f-fbde2ecf7625",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200335",
+      "SiteId": "puma.sharepoint.com,c8e1916f-cbc2-449f-83d6-f572b9074dcc,8c4de082-d74c-4319-a33c-e46ef29fa98e",
+      "ListName": "Calendar1",
+      "ListId": "f02b6e3b-cdbe-42a5-8b1e-c8cbf736d91f",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200347",
+      "SiteId": "puma.sharepoint.com,9dea0f76-0360-4a60-aa96-bf0ab1463d59,0aecb1fe-de02-42b6-a516-a51fe5a95cb5",
+      "ListName": "Calendar Sports",
+      "ListId": "e1842e29-9809-4069-9a29-bf65324ad28e",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200007",
+      "SiteId": "puma.sharepoint.com,48247016-ce34-4c44-ba23-657185e17340,cfde9090-51dd-4173-ac7f-5c0b024fa22c",
+      "ListName": "Calendar_Archive",
+      "ListId": "77043c59-6f87-4ba4-8302-13cb628541c3",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200027",
+      "SiteId": "puma.sharepoint.com,8ab543b4-46bf-410a-8e03-2b0b47ebd5ed,3da9ad39-1708-469b-8fb0-c17cccd858b5",
+      "ListName": "PUMAZA_AppBooking_General_Calendar",
+      "ListId": "c26b8b19-7416-41a3-87ee-c0019b1b71a8",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200066",
+      "SiteId": "puma.sharepoint.com,810a5ee9-7f01-4194-bc2e-ddd5385c826d,45fa4534-3534-4a19-9918-5adb6790c9fb",
+      "ListName": "Calendar",
+      "ListId": "854faca3-bec5-4b73-a2ae-4cba8b9dbccc",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100140",
+      "SiteId": "puma.sharepoint.com,e876d4c4-0a23-4146-b16b-d8c9850054af,08091b51-8863-4f1f-8ce3-8d0c9a7952ed",
+      "ListName": "Calendar1",
+      "ListId": "2a3c4b7c-690e-436e-998c-5900ea68b281",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200063",
+      "SiteId": "puma.sharepoint.com,c1e06b56-1f5d-4b03-bd7c-d4e8fa24c203,8216f6aa-b740-472f-89d7-9399cdede82d",
+      "ListName": "Calendar_Formations",
+      "ListId": "f7e2d168-6be4-45b5-858d-0a6a54129be4",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/Future_Workplace_IT_Admin_Portal",
+      "SiteId": "puma.sharepoint.com,cc224504-3e00-437d-9fc6-c64234925c91,96f8b5ee-41ca-4982-82b9-87ffee5cd68e",
+      "ListName": "Calendar",
+      "ListId": "5bab5de8-fe50-4c61-be10-8b4dfeafc045",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200064",
+      "SiteId": "puma.sharepoint.com,552397e5-887a-40b8-bc7b-b9cc1290b3a3,225634f1-5666-48b7-9fd4-39c7102904b5",
+      "ListName": "Calendar_formations",
+      "ListId": "672e5b60-f6fa-420e-a296-cb24e99f1437",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900",
+      "SiteId": "puma.sharepoint.com,eb019e00-b636-4a2a-82fe-b4f91a881d09,b74f489c-7b87-451d-9f98-d08355e7c809",
+      "ListName": "BookingV22",
+      "ListId": "002c9349-54ca-4311-a631-c33d5fb43342",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/densmodern2",
+      "SiteId": "22f9a780-9926-4d3b-b43f-1f97b40fb6de",
+      "ListName": "Dens Calendar",
+      "ListId": "9b48a4a8-9b1a-4ac9-b0da-af48712b1dca",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/densmodern",
+      "SiteId": "3d2a7e84-6d30-4465-8cb8-df52e74357aa",
+      "ListName": "Booking1",
+      "ListId": "c9e5b348-05f9-431f-af72-597de8ab83a2",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/fly",
+      "SiteId": "eb8974d3-c9b7-45ad-a0a7-5c9b53d2c0e3",
+      "ListName": "FOO Calendar",
+      "ListId": "e23a0e74-d4bd-468b-afda-0a5b7d2f8a54",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/jem",
+      "SiteId": "c150f57f-89a6-4afe-b86d-65a1ac65d34e",
+      "ListName": "Calendar",
+      "ListId": "d2c2bff2-b5a3-49c5-a2ee-f026f323f073",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/shim",
+      "SiteId": "0a2fabae-faaa-4315-b272-c01a6f47340d",
+      "ListName": "HNA Final Testing Calendar",
+      "ListId": "47e12694-a642-41d4-901a-a82ef0140ebc",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/spfx",
+      "SiteId": "dfffb421-5a3b-41e5-855c-fd8ef66faec5",
+      "ListName": "Calendar Test",
+      "ListId": "4f2effb5-d5dd-47fc-ae81-7b2e3c67e21b",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/trainingbooking",
+      "SiteId": "e4ba704e-88cc-4e51-9e89-1ea20e99d1ee",
+      "ListName": "Calendar",
+      "ListId": "bb73e659-2446-4afe-b166-c422c80830b0",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100066",
+      "SiteId": "puma.sharepoint.com,fd314921-30ab-41f4-aaed-a18eb6873d31,9004d58a-8ead-43d2-a02e-615cb1fab90b",
+      "ListName": "Calendar",
+      "ListId": "0854a4ac-3c0a-4481-a947-278c5bb77bda",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200051",
+      "SiteId": "puma.sharepoint.com,c1c9c7e5-8865-4405-bacc-0bb645f01c44,ed9c4a2c-bc3e-4dc8-b7c3-b9709241a279",
+      "ListName": "German Language Course 2023 Calendar",
+      "ListId": "f17e2e4a-a4ea-4b11-b729-1b76ecbcb770",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300003",
+      "SiteId": "puma.sharepoint.com,78da8fea-7d7d-41b0-93f8-86b40769cadf,b4f133f2-9a55-44d9-8d21-296b4b924bfa",
+      "ListName": "Booking App Calendar",
+      "ListId": "831bc917-439a-443b-870d-f3bed227a66c",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/500003",
+      "SiteId": "puma.sharepoint.com,1a5d7a73-be66-44eb-9ffd-8202d36571d1,095ba00d-dfa2-44ec-8c32-2946ea085e68",
+      "ListName": "IT Meeting 2022",
+      "ListId": "6c20432a-c1e9-4135-a811-d0e1dc1f4a48",
+      "Column": "Seat Capacity"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "SiteId": "puma.sharepoint.com,7d64e97f-7835-4f54-a1d8-7eed63d60508,c081aa3d-7231-4b11-b848-fbb6f363a842",
+      "ListName": "Calendar Adobe ",
+      "ListId": "e35c9c88-d862-4b83-ac9f-d9a48fa98d46",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/T-400000",
+      "SiteId": "puma.sharepoint.com,a79ce2cb-9e88-4fe9-80b7-6a473ef29480,d377864e-af31-4a2c-8b46-7b90f6a5aa1a",
+      "ListName": "Calendar",
+      "ListId": "aa93298c-635c-4d94-a0b6-fae6d93ba982",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100159",
+      "SiteId": "puma.sharepoint.com,54d5c691-3c3d-4445-8e4c-4b68b9ce0cf7,acad89ac-1706-45ba-ad56-1d1454460e4f",
+      "ListName": "Calendar_AppBooking",
+      "ListId": "95ef766d-0611-4b02-abd2-2ce2aa1c3bbc",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300922",
+      "SiteId": "puma.sharepoint.com,0eaa598e-ece7-4749-a611-37acd137f0dd,7e5f3da7-755c-4d8a-94f4-4e0d3edd9945",
+      "ListName": "Calendar",
+      "ListId": "fcd8951b-803b-455f-b4a0-4429a32ab547",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/T-400001",
+      "SiteId": "puma.sharepoint.com,8e82b51f-1a4a-4f6f-985c-2edd39031198,c068b158-419e-4636-acb5-8e2611a55f70",
+      "ListName": "Calendar Test",
+      "ListId": "b4a7ed96-ecf4-439a-8716-4df6198b3642",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100902",
+      "SiteId": "puma.sharepoint.com,5ea0afd8-9e6c-4a3f-bab9-1fd83e77e4b7,050161cc-8df6-438c-aa28-e146a7d30efb",
+      "ListName": "Sessions",
+      "ListId": "9c7c4986-7321-462b-a1a5-1bb6d1d8d811",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200203",
+      "SiteId": "puma.sharepoint.com,b837a67d-fae1-4f7a-9297-03bd7c4dfc04,6abd03e2-b7e7-4422-b1a8-1abc0af20613",
+      "ListName": "TestSchedule",
+      "ListId": "337caa3f-1d13-46ad-b116-00d183de24ad",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200046",
+      "SiteId": "puma.sharepoint.com,93c4e6a3-a791-4693-9f88-0f53f60e1a85,a96640f7-5cba-4b93-a22c-b6b99c6df7a8",
+      "ListName": "Calendar",
+      "ListId": "0a53fea9-5cde-49d3-ad33-ee4106af3f28",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-Global-Project-MS-Teams",
+      "SiteId": "puma.sharepoint.com,a0984e2a-f1dd-4ed5-b724-099f61c7fe9b,528525e9-0330-4f80-9308-1d58719dd496",
+      "ListName": "Schedule",
+      "ListId": "49cbbb26-a448-44fa-8723-48b4a9cb7dee",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-MNL-SharePoint",
+      "SiteId": "puma.sharepoint.com,6c015e91-17b6-44b1-bb65-05d4cbd9bd64,7545ab0d-57a1-4d4c-9e33-dce1bf26ae69",
+      "ListName": "CalendarTest",
+      "ListId": "8bbab1a8-4ab4-4e24-b22b-d9183d5a0677",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-Global-Connect-at-PUMA-Superheroes",
+      "SiteId": "puma.sharepoint.com,b2c5dd4b-2ab0-45eb-b1a1-d838be8d8946,83768198-f6cc-4a83-b8a9-f24c8c47383d",
+      "ListName": "Superheroes Trainings",
+      "ListId": "30665f36-eda9-4a7f-af14-858506b270f3",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "SiteId": "puma.sharepoint.com,e971b196-94b9-4ae1-aded-b34217738102,d917bbc0-d414-4f0a-8149-3a948f0ba8b0",
+      "ListName": "Calendar",
+      "ListId": "9945c669-c412-4928-b4f1-3b9d64049924",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200314",
+      "SiteId": "puma.sharepoint.com,004cbeba-fabf-4c40-9fef-ff5db0b2a6cd,2c52e07b-fe83-481e-8a36-0bacf68f3d27",
+      "ListName": "Calendar",
+      "ListId": "aa32bc1e-f098-4519-a5bd-4ad2e897bfb8",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300007",
+      "SiteId": "puma.sharepoint.com,4ad555d4-b7b8-4f30-ae7b-fa8ff2bd00e0,5212cf9b-8c76-40bf-9f0a-9b3ba25f8973",
+      "ListName": "CalendarV2.0",
+      "ListId": "2bb7423e-35fa-4fdd-a815-8ab54b55efd5",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100183",
+      "SiteId": "puma.sharepoint.com,5d14eb9f-ead2-438a-93e4-f966a7ff6653,30b7a8a1-9754-4616-92ab-e397652a50d1",
+      "ListName": "Calendar_cecifoot",
+      "ListId": "49826189-e93d-4d1a-8e9b-997b35a484fd",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200011",
+      "SiteId": "puma.sharepoint.com,52ddcee2-52bb-4e35-bef1-c95324cfab0d,c18dc75e-3640-4342-81a1-d2734da7c921",
+      "ListName": "Calendar",
+      "ListId": "79d8b74e-9fa9-476f-8fd2-ff4b44f700ce",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200018",
+      "SiteId": "puma.sharepoint.com,c95eb741-7124-45c1-ab78-c4cfc7c355cb,c18dc75e-3640-4342-81a1-d2734da7c921",
+      "ListName": "Calendar",
+      "ListId": "9dc30fcf-6c5d-417c-aacb-cfcc94766e90",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300012",
+      "SiteId": "puma.sharepoint.com,7a933329-3c28-4421-ae97-9d04f39c2af2,755a13c8-03fe-446a-952a-bd1dda998c0f",
+      "ListName": "Calendar",
+      "ListId": "e3995e39-d199-446f-9394-779f4172810b",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-HERITInfrastructure%26Services",
+      "SiteId": "puma.sharepoint.com,18eaaad1-64d7-41ad-b76f-8e0a222d28bd,ed13c6f8-a6dc-415c-9a4c-3efbb496561c",
+      "ListName": "Calendar2",
+      "ListId": "62ef1ad8-ed18-4ef5-ac4e-7fb1a27f9cbb",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200044",
+      "SiteId": "puma.sharepoint.com,d6234aaf-dff6-422c-bba2-89c5d2af9559,4840032c-ed8d-462d-8dac-d8e12a8fa0c8",
+      "ListName": "Calendarioteste",
+      "ListId": "041a7a89-5c97-440d-8c0d-bffba06ffb90",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200307",
+      "SiteId": "puma.sharepoint.com,cad78504-6aba-40bc-82bc-7bdf361353ad,2f503f91-ccb0-4eb4-9983-258684223f42",
+      "ListName": "Calendar - Compliance in-person Training ",
+      "ListId": "661ea4f7-b65f-4efc-b3f9-ac04dbbec729",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/NewsCenter",
+      "SiteId": "puma.sharepoint.com,78f24db1-5ab3-48f4-a660-797786ceff57,d633a729-b8d1-4fc0-a06c-162672c98874",
+      "ListName": "Calendar",
+      "ListId": "4a38b988-99c9-4134-91c2-3b0f8acbfbbd",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "SiteId": "puma.sharepoint.com,f6a214f8-5131-456c-9e5b-753b63384ef4,2f503f91-ccb0-4eb4-9983-258684223f42",
+      "ListName": "B2Run Get-together 2024",
+      "ListId": "00e4383d-3b61-43a9-aef0-d5af991e6bfa",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-HER-IT-Service-Delivery",
+      "SiteId": "puma.sharepoint.com,95acbe98-9934-4217-8188-498403dd7548,66ce2b65-0280-4c7a-994f-bdb689bedb0f",
+      "ListName": "IT Service Delivery",
+      "ListId": "683cc539-6f10-4bed-8b10-99554737e840",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200010",
+      "SiteId": "puma.sharepoint.com,8f87c088-9ed3-41ab-82f9-2919714a8c8c,c18dc75e-3640-4342-81a1-d2734da7c921",
+      "ListName": "Bytesize Calendar",
+      "ListId": "0bff0559-18ec-41c9-800e-af92cdc71c9f",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200069",
+      "SiteId": "puma.sharepoint.com,9b06709c-4d98-433e-9ae7-2017bbe2d0fc,17b7bba9-9348-4c36-ad47-a20385257da4",
+      "ListName": "ListaCalendarioIT",
+      "ListId": "3908ba23-d378-4045-b60f-be8d8c09e72e",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200345",
+      "SiteId": "puma.sharepoint.com,4cf4baa2-5929-4e05-b657-1ce3a2821d31,c9893ac5-badb-4f1e-a542-e772db8ddeff",
+      "ListName": "Calendar Feldtest",
+      "ListId": "6bd03dc2-d402-4f1a-9c86-5a4aa0464410",
+      "Column": "PumaSeat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200062",
+      "SiteId": "puma.sharepoint.com,9255404d-b715-42e7-aa12-0e41bdbaab1f,2a327e1a-3d05-4ea9-a6db-b43a119374d4",
+      "ListName": "Calendar_wellbeing",
+      "ListId": "9a120b4e-5173-4d8f-9d6f-f012396af1eb",
+      "Column": "No. of Seat"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200003",
+      "SiteId": "puma.sharepoint.com,471785d2-648f-4c20-af7d-9df88886a894,d3ea2a51-df4e-4221-99e1-361c4d474707",
+      "ListName": "Calendar_List_Monitor_Setup",
+      "ListId": "fc9a4e8a-50b5-4bb4-99fa-43b189555554",
+      "Column": "No. of Seat"
+    }
+  ]
+}

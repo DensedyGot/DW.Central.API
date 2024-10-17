@@ -1,0 +1,2004 @@
+{
+  "info": [
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/16th-July---Global-AI-Awareness-Day.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "966d8dc3-3dfd-489e-b84b-d12410e4b0da",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/Bookings-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "80cc8354-07e9-41ff-8bec-24f20a1a8bdd",
+      "CalendarList": "Calendar Bookings Workshop",
+      "BookingList": "Booking Bookings Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/Bookings-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "4eb92425-53d4-43b1-9248-a28878aaf507",
+      "CalendarList": "Calendar Bookings Workshop Afternoon",
+      "BookingList": "Booking Bookings Workshop Afternoon"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/Copilot-AI-Assistant(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e83e12f6-096b-4cac-b011-8ffb68078bd8",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/Copilot-AI-Assistant(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "29988c46-4cd5-4b0b-b5e4-9487f092d079",
+      "CalendarList": "Calendar_Prompt",
+      "BookingList": "Booking_Prompt"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/Prepare-to-make-it-FASTER.DAILY.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "25ae317b-e8f9-457d-abac-5a0eae347d0d",
+      "CalendarList": "Calendar Viva Engage",
+      "BookingList": "Booking Viva Engage"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201045",
+      "Page": "https://puma.sharepoint.com/sites/201045/SitePages/Prepare-to-make-it-FASTER.DAILY.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e16c6a4f-4d16-4719-8622-bf7663147a63",
+      "CalendarList": "Calendar Viva Engage Afternoon",
+      "BookingList": "Booking Viva Engage Afternoon"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201042",
+      "Page": "https://puma.sharepoint.com/sites/201042/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "4ba7a605-f8c6-4225-8256-b8ccb92c49ef",
+      "CalendarList": "Calendar Employee Voice Events",
+      "BookingList": "Booking Employee Voice Events"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/201003",
+      "Page": "https://puma.sharepoint.com/sites/201003/SitePages/Account-meeting-bookings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "3e6bb694-8b94-415a-aa6a-4a678790e4fe",
+      "CalendarList": "Calendar Account Meetings",
+      "BookingList": "Booking Account Meetings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200949",
+      "Page": "https://puma.sharepoint.com/sites/200949/SitePages/AH25-LINE-FREEZE---WORKING-SESSIONS.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d9d1c23c-0eb3-42a0-955b-0f59046c6f8b",
+      "CalendarList": "Calendar_AH25LF",
+      "BookingList": "Booking_AH25LF"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100008",
+      "Page": "https://puma.sharepoint.com/sites/100008/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1e3369ec-5874-41d7-b5c8-65f3962f11eb",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "Page": "https://puma.sharepoint.com/sites/505483/SitePages/3rd-Community-Call.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dffdb5a0-6d3d-4b43-b6c5-0b8ef0096588",
+      "CalendarList": "Calendar Community Call",
+      "BookingList": "Booking Community Call"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "Page": "https://puma.sharepoint.com/sites/505483/SitePages/4th-Community-Call.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dffdb5a0-6d3d-4b43-b6c5-0b8ef0096588",
+      "CalendarList": "Calendar Community Call",
+      "BookingList": "Booking Community Call"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "Page": "https://puma.sharepoint.com/sites/505483/SitePages/5th.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dffdb5a0-6d3d-4b43-b6c5-0b8ef0096588",
+      "CalendarList": "Calendar Community Call",
+      "BookingList": "Booking Community Call"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "Page": "https://puma.sharepoint.com/sites/505483/SitePages/First-Com.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dffdb5a0-6d3d-4b43-b6c5-0b8ef0096588",
+      "CalendarList": "Calendar Community Call",
+      "BookingList": "Booking Community Call"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "Page": "https://puma.sharepoint.com/sites/505483/SitePages/Prompting-Deep-Dive.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dffdb5a0-6d3d-4b43-b6c5-0b8ef0096588",
+      "CalendarList": "Calendar Community Call",
+      "BookingList": "Booking Community Call"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/505483",
+      "Page": "https://puma.sharepoint.com/sites/505483/SitePages/Second-Community-Call.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dffdb5a0-6d3d-4b43-b6c5-0b8ef0096588",
+      "CalendarList": "Calendar Community Call",
+      "BookingList": "Booking Community Call"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/womeninit",
+      "Page": "https://puma.sharepoint.com/sites/womeninit/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "0f9c2647-973c-44bc-b79f-f649139c8525",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200917",
+      "Page": "https://puma.sharepoint.com/sites/200917/SitePages/Book-your-slot-for-the-card-exchange.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "afdc128c-a944-4117-ab37-5bdbc9b795ee",
+      "CalendarList": "Calendar Employee Card Migration",
+      "BookingList": "Booking Employee Card Migration"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200917",
+      "Page": "https://puma.sharepoint.com/sites/200917/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "479e661c-5c41-44a6-b918-6486178c0a54",
+      "CalendarList": "Calendar Employee Card Migration",
+      "BookingList": "Booking Employee Card Migration"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200914",
+      "Page": "https://puma.sharepoint.com/sites/200914/SitePages/Event-Calendar.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "cea60117-5cf0-4b1d-bc05-80153d4061c0",
+      "CalendarList": "CalendarEvents",
+      "BookingList": "BookingEvents"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200914",
+      "Page": "https://puma.sharepoint.com/sites/200914/SitePages/Event-Calendar.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "689540b8-d534-4c6c-a010-5d9526bd2fda",
+      "CalendarList": "CalendarEvents",
+      "BookingList": "BookingEvents"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200914",
+      "Page": "https://puma.sharepoint.com/sites/200914/SitePages/Event-Calendar.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "8e963e7e-1cf5-44c8-a786-8817936a99ec",
+      "CalendarList": "CalendarEvents",
+      "BookingList": "BookingEvents"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200914",
+      "Page": "https://puma.sharepoint.com/sites/200914/SitePages/OSHS-Training.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "88a958aa-5310-4638-be45-a3f25535ce6c",
+      "CalendarList": "Booking App Calendar",
+      "BookingList": "Booking List"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200914",
+      "Page": "https://puma.sharepoint.com/sites/200914/SitePages/TEST-Only.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dc7d9ff6-ae91-4956-8807-e5b3b4ef0fb6",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200906",
+      "Page": "https://puma.sharepoint.com/sites/200906/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "46217240-450b-4447-9105-d32e7c5e87b9",
+      "CalendarList": "Calendar ARGOS New",
+      "BookingList": "Booking ARGOS New"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/JericoStreamTestsite",
+      "Page": "https://puma.sharepoint.com/sites/JericoStreamTestsite/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "b3b7f50a-de97-4b80-ab6b-5f396b7eeb4a",
+      "CalendarList": "Calendar Test",
+      "BookingList": "Booking Test "
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504051-ORGALogisticsSummit",
+      "Page": "https://puma.sharepoint.com/sites/504051-ORGALogisticsSummit/SitePages/LOGITICS-SUMMIT.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "bae88c19-06c4-4035-9a78-e72f878d7aef",
+      "CalendarList": "Calendar test",
+      "BookingList": "Booking test"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200848",
+      "Page": "https://puma.sharepoint.com/sites/200848/SitePages/LINE-FREEZE---MERCH-WORKING-SESSIONS.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "fc76d10f-eba6-48c4-a79c-b792fea62c51",
+      "CalendarList": "Calendar SS25",
+      "BookingList": "Booking Line Freeze Meeting"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200848",
+      "Page": "https://puma.sharepoint.com/sites/200848/SitePages/SS25-LINE-FREEZE---FOREVER-BETTER-WALK-THROUGH.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "11852391-b9b7-4eb0-ab65-1ab44285be9d",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-200003",
+      "Page": "https://puma.sharepoint.com/sites/d-200003/SitePages/Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "3b828b8a-8bd8-401a-9b46-7fe9389f03a5",
+      "CalendarList": "Calendar1",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200823",
+      "Page": "https://puma.sharepoint.com/sites/200823/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "297c5101-df04-4de8-bafd-5e209c270bb4",
+      "CalendarList": "Calendar Puma IT Trianings",
+      "BookingList": "Booking Puma IT Trianings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200823",
+      "Page": "https://puma.sharepoint.com/sites/200823/SitePages/Proyecto-Future-Client.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "3e94559e-aeb5-4c9d-8921-40d645b3ebf4",
+      "CalendarList": "Future Client Calendar",
+      "BookingList": "Future Client Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504918",
+      "Page": "https://puma.sharepoint.com/sites/504918/SitePages/GLOBAL-LOGISTICS-SUMMIT-2025.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "18d96798-b4fe-42f9-a483-40f91c889101",
+      "CalendarList": "Calendar-test new",
+      "BookingList": "Booking- test new"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504918",
+      "Page": "https://puma.sharepoint.com/sites/504918/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "6eeb6aa5-8877-4ce6-867c-8ee232652368",
+      "CalendarList": "Calendar run",
+      "BookingList": "Booking run"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504918",
+      "Page": "https://puma.sharepoint.com/sites/504918/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d52da48a-403a-4b1e-a8c0-dcfa9fcb3d58",
+      "CalendarList": "Calendar Training  Discussions",
+      "BookingList": "Booking SP"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/504918",
+      "Page": "https://puma.sharepoint.com/sites/504918/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e2cb731b-e46f-4206-be33-3d421212c151",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300018",
+      "Page": "https://puma.sharepoint.com/sites/d-300018/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "2a2987f4-94eb-4bbf-8a0b-4db83ab46288",
+      "CalendarList": "CalendarKM",
+      "BookingList": "BookingKM"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300018",
+      "Page": "https://puma.sharepoint.com/sites/d-300018/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "b5a58489-f71f-4894-bfd1-3453011833d6",
+      "CalendarList": "CalendarKM",
+      "BookingList": "BookingKM"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300018",
+      "Page": "https://puma.sharepoint.com/sites/d-300018/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5a03cc4d-cf55-45e0-bc02-6d2ab49d9fe3",
+      "CalendarList": "CalendarKM",
+      "BookingList": "BookingKM"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300018",
+      "Page": "https://puma.sharepoint.com/sites/d-300018/SitePages/Booking-App.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f4e23e43-b13f-4a6d-8a44-8689049951b8",
+      "CalendarList": "CalendarKM",
+      "BookingList": "BookingKM"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300136",
+      "Page": "https://puma.sharepoint.com/sites/d-300136/SitePages/Booking-app.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "7e9c0909-c2c0-4004-be1b-3a7cda2c5168",
+      "CalendarList": "Calendar_v1",
+      "BookingList": "Booking_v1"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200194",
+      "Page": "https://puma.sharepoint.com/sites/200194/SitePages/After-Work-Sports-ESAM.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "da6e92a4-6708-45cd-9f68-d00e75643b42",
+      "CalendarList": "Calendar ESAM Sports",
+      "BookingList": "Booking ESAM Sports"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200193",
+      "Page": "https://puma.sharepoint.com/sites/200193/SitePages/Booking-Webpart.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a54b43a2-5d96-4e66-99d2-3a621b6c0257",
+      "CalendarList": "CalendarTest",
+      "BookingList": "BookingTest"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200192",
+      "Page": "https://puma.sharepoint.com/sites/200192/SitePages/APP-Booking-Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1e75f492-e062-4816-8969-ab10ee2dcec1",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503497",
+      "Page": "https://puma.sharepoint.com/sites/503497/SitePages/Your-starting-path-to-Low-Code-@-PUMA.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "cd626b9a-1e9d-4058-b545-c9ab9f8c9f63",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503497",
+      "Page": "https://puma.sharepoint.com/sites/503497/SitePages/Your-starting-path-to-Low-Code-@-PUMA.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a83616a2-f4b3-4cfc-a148-6ed9b72d8db1",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200209",
+      "Page": "https://puma.sharepoint.com/sites/200209/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "120f0d82-83a5-455c-ade9-da484ec12def",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200176",
+      "Page": "https://puma.sharepoint.com/sites/200176/SitePages/Low%20Code%20Advanced%20Training.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "921e2454-3ee4-4fa9-a882-890e03e27ef6",
+      "CalendarList": "Calendar_Beginners",
+      "BookingList": "Booking_Beginners"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200176",
+      "Page": "https://puma.sharepoint.com/sites/200176/SitePages/Low-Code-Basics-Training.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "921e2454-3ee4-4fa9-a882-890e03e27ef6",
+      "CalendarList": "Calendar_Beginners",
+      "BookingList": "Booking_Beginners"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200176",
+      "Page": "https://puma.sharepoint.com/sites/200176/SitePages/Low-Code-Intermediate-Training.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "921e2454-3ee4-4fa9-a882-890e03e27ef6",
+      "CalendarList": "Calendar_Beginners",
+      "BookingList": "Booking_Beginners"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200176",
+      "Page": "https://puma.sharepoint.com/sites/200176/SitePages/Process-Discovery-Sessions.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "921e2454-3ee4-4fa9-a882-890e03e27ef6",
+      "CalendarList": "Calendar_Discoveries2",
+      "BookingList": "Booking_Discoveries2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200160",
+      "Page": "https://puma.sharepoint.com/sites/200160/SitePages/EVENTS-LIST.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "377a0b0b-9a3d-4041-a06c-abda01797e51",
+      "CalendarList": "CalendarSpain",
+      "BookingList": "BookingSpain"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200160",
+      "Page": "https://puma.sharepoint.com/sites/200160/SitePages/Wellbeing-%26-Engagement-Italy.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "62a66ff0-edd1-4b1b-8db7-a93c77cc1007",
+      "CalendarList": "CalendarEngageItaly",
+      "BookingList": "BookingEngageItaly"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200160",
+      "Page": "https://puma.sharepoint.com/sites/200160/SitePages/Wellbeing-%26-Engagement-Portugal.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "db1f2606-46f0-4a8a-a9b9-6e5483d968ed",
+      "CalendarList": "CalendarPortugal",
+      "BookingList": "BookingPortugal"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200160",
+      "Page": "https://puma.sharepoint.com/sites/200160/SitePages/Wellbeing-%26-Engagement-Spain.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "38260ec0-d26f-4698-a737-8da905a9097c",
+      "CalendarList": "CalendarSpain",
+      "BookingList": "BookingSpain"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503193",
+      "Page": "https://puma.sharepoint.com/sites/503193/SitePages/Women-in-IT.-Workshop-Day.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "10b301ac-9322-419f-9abf-1825605b10c1",
+      "CalendarList": "Women in IT Workshop 2023 Calendar",
+      "BookingList": "Women in IT Workshop 2023 List"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/AppBooking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "76f5b4c8-e8d4-4995-878d-84de4eee1ca2",
+      "CalendarList": "CalendarSP",
+      "BookingList": "BookingSP"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/APP-BOOKING.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "314aea6e-0207-4b6f-8920-10afe96a55fd",
+      "CalendarList": "Calendar Demo",
+      "BookingList": "Booking Demo"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/APP-BOOKING-CONFIGURATION-%26-EVENT-MANAGEMENT.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "c042e6c3-8787-458e-bb6b-364ff3866f47",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/App-Booking-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "b7cc5c57-6151-4bec-8343-00aa854b2c2d",
+      "CalendarList": "Calendar WAB",
+      "BookingList": "Booking WAB"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Booking-App-V2-TEST.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1212bc2e-8cf9-4012-96fc-9f289c09b05f",
+      "CalendarList": "Calender Booking App V2 TEST",
+      "BookingList": "Booking Booking App V2 TEST"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Bookings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "357fee9f-b086-4d77-b573-6998e1ccdd71",
+      "CalendarList": "Calendar Workshop Bookings",
+      "BookingList": "Booking Workshop Bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Calendar.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9ec9a6b0-9f2d-40e5-a3e2-246bb6154eb9",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Dates-and-Events---Overview.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "95a935f8-0488-460b-b134-d69d653be9ad",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Forms-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5fb1777b-4e43-4047-9154-4061db2122b8",
+      "CalendarList": "Calendar Microsoft Forms Workshop",
+      "BookingList": "Booking Microsoft Forms Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Forms-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9e075005-582d-48b3-958d-91647b42a15e",
+      "CalendarList": "Calendar Microsoft Forms Workshop Afternoon",
+      "BookingList": "Booking Microsoft Forms Workshop Afternoon"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Miro-Whiteboard-Beginner-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "3d53badf-020a-4d8e-a262-4ddaadd796fd",
+      "CalendarList": "Calendar Miro Workshop",
+      "BookingList": "Booking Miro Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/SharePoint-Community-Workshop(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "919c5280-9e20-46fc-b118-932f9c65296f",
+      "CalendarList": "Calendar Deep Dive FAQ",
+      "BookingList": "Booking LILI"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/SharePoint-Community-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1796394f-00fa-48ee-b812-4d86cf2784d9",
+      "CalendarList": "Calendar Deep Dive FAQ",
+      "BookingList": "Booking Deep Dive FAQ"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/SharePoint-Workshop(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "aad1dca2-fcdb-4d8d-9df1-104c5e9b74f5",
+      "CalendarList": "Calendar SP Workshop",
+      "BookingList": "Booking SP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/SharePoint-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "22ca539f-387f-4e79-8f78-da0c0d8fef15",
+      "CalendarList": "Calendar SP Workshop",
+      "BookingList": "Booking SP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Stream-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "31f6f438-6aa6-4735-bc22-3c99cd9a2eab",
+      "CalendarList": "Calendar Stream Workshop",
+      "BookingList": "Booking Stream Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/test(4).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1b7adc79-7d19-460d-9dd5-58526d984ad1",
+      "CalendarList": "Calendar Test Test Test",
+      "BookingList": "Booking Test Test Test"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/test(4)1.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1b7adc79-7d19-460d-9dd5-58526d984ad1",
+      "CalendarList": "Calendar Test Test Test",
+      "BookingList": "Booking Test Test Test"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "28c12876-073a-49b4-9aef-2e8fc57bddcd",
+      "CalendarList": "TrainingCalendar",
+      "BookingList": "TrainingBooking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Valerii-Testing.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "277507c4-d68e-4dc2-8034-5fb8a297de16",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Viva-Engage-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "6f7a2f51-e5d6-4242-96b7-3384f660992f",
+      "CalendarList": "Calendar Viva Engage All ",
+      "BookingList": "Booking Viva Engage All"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Viva-Engage-Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f38a4edf-c2d6-491b-86d5-171eb53ef293",
+      "CalendarList": "Calendar Viva Engage Owners",
+      "BookingList": "Booking Viva Engage Owners"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200155",
+      "Page": "https://puma.sharepoint.com/sites/200155/SitePages/Workshop.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "51442f10-fbda-4d5e-a8b6-ecd5ba864302",
+      "CalendarList": "Calendar Workshop",
+      "BookingList": "Booking Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200150",
+      "Page": "https://puma.sharepoint.com/sites/200150/SitePages/Sportstyle%20Design%20Apparel.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "42762ba7-255a-46d3-aeef-cfef026c4ed1",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200058",
+      "Page": "https://puma.sharepoint.com/sites/200058/SitePages/IT1.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9e02bec1-5eab-4665-9939-8113dd8a45cb",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/503038",
+      "Page": "https://puma.sharepoint.com/sites/503038/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "786ed6ff-c4d1-430f-b587-7ee0c080e8fa",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200097",
+      "Page": "https://puma.sharepoint.com/sites/200097/SitePages/Calendar.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "990a6649-9d4f-48d7-a536-7269e08b0ca9",
+      "CalendarList": "Calendar for booking",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/502372",
+      "Page": "https://puma.sharepoint.com/sites/502372/SitePages/calendar-test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "8598e3f4-b8a4-4c13-8500-60442867ba7f",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/502372",
+      "Page": "https://puma.sharepoint.com/sites/502372/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "380dda3e-b300-49f4-92a5-e00586b72947",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/502162",
+      "Page": "https://puma.sharepoint.com/sites/502162/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "efedb2f2-dce4-4896-bd86-09b35b7f204d",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200382",
+      "Page": "https://puma.sharepoint.com/sites/200382/SitePages/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "13b23997-1ce6-455e-b92e-04414fd615f3",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200381",
+      "Page": "https://puma.sharepoint.com/sites/200381/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "01e4e5be-e91f-4754-85e9-81b49f4c8909",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200381",
+      "Page": "https://puma.sharepoint.com/sites/200381/SitePages/People-%26-Organization(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "8f0dea37-f7d5-490b-8995-156b6820aad7",
+      "CalendarList": "Calendar",
+      "BookingList": "Bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200363",
+      "Page": "https://puma.sharepoint.com/sites/200363/SitePages/PrenotaSostituzioneiPhone.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a9e61abf-757f-40d8-b212-d10e92209018",
+      "CalendarList": "CalendarItaDm",
+      "BookingList": "BookingItaDM"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200363",
+      "Page": "https://puma.sharepoint.com/sites/200363/SitePages/SS21-360-digital-meeting.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "8e6b23bd-90c8-4ec7-b72f-bc9eb96c3fb9",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200361",
+      "Page": "https://puma.sharepoint.com/sites/200361/SitePages/(TEST)-GYM.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "29180446-d042-421e-9f6d-20717386b37e",
+      "CalendarList": "Calendar-GYM-BCN",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200361",
+      "Page": "https://puma.sharepoint.com/sites/200361/SitePages/Test-Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ec5aee3c-3b41-4d92-a4b7-193f0c4955b0",
+      "CalendarList": "CalendarWD",
+      "BookingList": "BookingWD"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200361",
+      "Page": "https://puma.sharepoint.com/sites/200361/SitePages/YOGA-BARCELONA.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "7c68b583-11aa-43c5-98e6-7f0d4db86359",
+      "CalendarList": "CalendarBCNYoga",
+      "BookingList": "BookingBCNYoga"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200361",
+      "Page": "https://puma.sharepoint.com/sites/200361/SitePages/YOGA-MADRID.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ee971289-d4fa-4357-8d8c-9f41438a8d45",
+      "CalendarList": "CalendarMADYoga",
+      "BookingList": "BookingMADYoga"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/400051",
+      "Page": "https://puma.sharepoint.com/sites/400051/SitePages/PCR-Testing-BU-Teamsport.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "84fd58b5-6b1e-40cf-a7ae-df52f19289be",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/App05.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "cce68762-69b8-48cf-b10a-30c12f8a6f76",
+      "CalendarList": "App05 App Calendar",
+      "BookingList": "App05 Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/App06-Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "bb4a02dc-a542-458c-b13e-e2e55a419ac0",
+      "CalendarList": "Wellbeing Calendar",
+      "BookingList": "Wellbeing Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/App-Booking-Page-Diana-21.08.2024.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "6e473d05-0c31-4d8f-b8f1-34bee639eb5c",
+      "CalendarList": "DianaTest21",
+      "BookingList": "DianaTest21 - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/BAV-Test-Feb-2024(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "868037fa-0a17-480d-af4f-625daea79fee",
+      "CalendarList": "BAV Feb 2024 Calendar",
+      "BookingList": "BAV Feb 2024 Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1857f039-722d-4272-92a3-8192d4080e33",
+      "CalendarList": "Power BI Training",
+      "BookingList": "Power BI Training - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking-Simulate-Migration.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f81d1527-c604-4a10-8bda-e35534236d08",
+      "CalendarList": "Calendar Test Test Test",
+      "BookingList": "Booking Test Test Test"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking-Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a6caf6a6-e096-4847-b4fd-3cb86f47381b",
+      "CalendarList": "CalendarTest",
+      "BookingList": "BookingTest"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "404dc1ec-e01f-43bd-8bec-38f10ff33b7a",
+      "CalendarList": "Calendar_Underscore",
+      "BookingList": "Booking_Underscore"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "43e11b35-efda-4aa2-8c89-6fbac4958b68",
+      "CalendarList": "Calendar,Comma",
+      "BookingList": "Booking,Comma"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f7b44ae5-3bb7-450a-b82f-05de9900ae4f",
+      "CalendarList": "Calendar(Open",
+      "BookingList": "Booking(Open"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "01c340dd-b18b-4826-8f38-69cdc276d3a6",
+      "CalendarList": "Calendar)Close",
+      "BookingList": "Booking)Close"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ea12e2a5-3a01-4644-99b3-b8d64abb2b37",
+      "CalendarList": "Calendar-TestDash",
+      "BookingList": "Booking-TestDash"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a5ec35ce-39a9-434b-9315-91f31ea2b842",
+      "CalendarList": "Calendar.Dot",
+      "BookingList": "Booking.Dot"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking---Test-Special-Characters.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9a4f2f14-e15e-4e02-b50a-9a0b7d458297",
+      "CalendarList": "Calendar Space",
+      "BookingList": "Booking Space"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking-v2.0.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "55cf0afe-3913-49d2-a516-543546d8ef1b",
+      "CalendarList": "Power BI Training",
+      "BookingList": "Power BI Training - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking-v3.0-BAV.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "c44c1f57-41d4-4263-a2ac-93a770b85cf5",
+      "CalendarList": "CalendarMay162023",
+      "BookingList": "BookingMay162023"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking-v3.0-BAV.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "87177013-1bde-474d-845c-bfa0c7c2b539",
+      "CalendarList": "BAV Old page New Webpart Calendar",
+      "BookingList": "BAV Old page New Webpart  Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Booking-v3.0-BAV.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d9edb28d-64b0-4423-8d93-7ff98f3c8d3a",
+      "CalendarList": "",
+      "BookingList": ""
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Choi-Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5a91d9e7-31e9-4866-8d4d-016c93e83228",
+      "CalendarList": "ChoiCalendar_v2",
+      "BookingList": "ChoiBooking_v2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/CoPilot-Training.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "4cf130e4-b530-4f8c-a61f-3d304b03cfa8",
+      "CalendarList": "Copilot Training",
+      "BookingList": "Copilot Training - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/DianaMemberRoleSite.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e2e935a3-f5fb-42e6-8646-d93764f09bb9",
+      "CalendarList": "TestDiana2108_2",
+      "BookingList": "TestDiana2108_2 - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/HNA-Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f5d61f72-5bb1-4930-a944-74029b1878a4",
+      "CalendarList": "Booking App Calendar HNA",
+      "BookingList": "Booking HNA"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/KM-02-Booking-App-before-PROD.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f6a54e0f-bdc3-42a6-acd4-8a890916dc99",
+      "CalendarList": "CalendarSTG1",
+      "BookingList": "BookingSTG2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/KM-BookingApp-test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9b8161a2-a4d6-40e6-b2b9-6a2444318831",
+      "CalendarList": "CalendarKM2",
+      "BookingList": "BookingKM2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/KM-BookingApp-test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "4906cedf-cd76-44bf-ac09-e670df840397",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "2f6e781c-fb2d-49c4-8c97-b7c5d15567f5",
+      "CalendarList": "BookingEMM",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Test-Booking-App-v3.0.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "22944eae-83d1-4800-bbf6-ba0cc2243cea",
+      "CalendarList": "CalendarEMM",
+      "BookingList": "BookingEMM"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Test-Booking-App-v3.0.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ee192738-fc79-44d5-82c5-888623d15ff0",
+      "CalendarList": "Booking App Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/TestDiana2108_02.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e5f218ff-d05d-4979-8d2c-ce5c3398cc51",
+      "CalendarList": "Power BI Training",
+      "BookingList": "Power BI Training - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/TestDiana2108_02.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "35eb6eb0-718a-44f1-aad8-4852cedb21e6",
+      "CalendarList": "PBA",
+      "BookingList": "PBA - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Testing-for-App-Booking-Web-Part-V3.0.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "46f55bca-4461-4584-9b3f-641fbb447ad1",
+      "CalendarList": "Calendar Test New",
+      "BookingList": "Booking Test New"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Valerii-Testing.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dfcd508b-0d43-475a-8078-cd3004e004c5",
+      "CalendarList": "Calendar Valerii Testing",
+      "BookingList": "Booking Valerii Testing"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Valerii-Testing.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9d89077c-84e2-4e3b-81c4-8c30de10b9c4",
+      "CalendarList": "Booking App Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Valerii-Testing-AppBooking-New-Version-16.08.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "8caebc2c-eaae-452e-8653-d028554b3ba7",
+      "CalendarList": "Calendar Cow",
+      "BookingList": "Calendar Cow - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Valerii-Testing-v3.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "2cf59cf6-4880-4c68-8415-b9e0792fbd19",
+      "CalendarList": "Calendar Valerii Events ",
+      "BookingList": "Booking Valerii Events"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300004",
+      "Page": "https://puma.sharepoint.com/sites/d-300004/SitePages/Workbench.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "55cb2459-34cd-41ce-afdb-35d85e4dc8a9",
+      "CalendarList": "Power BI Training",
+      "BookingList": "Power BI Training - Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/Connect",
+      "Page": "https://puma.sharepoint.com/sites/Connect/SitePages/Trainings(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9d701f7a-46b5-4096-9298-d807db951101",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/500088",
+      "Page": "https://puma.sharepoint.com/sites/500088/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5af63b0b-51fd-403e-9a8a-0d9b69ac5af3",
+      "CalendarList": "Calendar Career page ",
+      "BookingList": "Booking Career page"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200115",
+      "Page": "https://puma.sharepoint.com/sites/200115/SitePages/SWOP-SHOP-2023.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dad92e21-5a1f-4242-93cf-c1be314ae993",
+      "CalendarList": "Calendar Swop Shop 2023",
+      "BookingList": "Booking Swop Shop 2023"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200211",
+      "Page": "https://puma.sharepoint.com/sites/200211/SitePages/Test-Page.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "b28b0e5e-4f0a-403f-932c-bebc5eb20baf",
+      "CalendarList": "Calendar Treinamentos",
+      "BookingList": "Booking Treinamentos"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200335",
+      "Page": "https://puma.sharepoint.com/sites/200335/SitePages/New-Microsoft-Teams-Room-meeting-device.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "208ae968-7411-46da-8b3f-b9f895de530a",
+      "CalendarList": "Calendar1",
+      "BookingList": "Teams training"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200335",
+      "Page": "https://puma.sharepoint.com/sites/200335/SitePages/PO-%26-Inventory-Power-BI-report-training.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "4f90404b-02fe-450a-9d34-2351b725bacb",
+      "CalendarList": "Calendar1",
+      "BookingList": "Booking1"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200347",
+      "Page": "https://puma.sharepoint.com/sites/200347/SitePages/Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5d726bd5-fac1-4632-a973-8aa039fe1a57",
+      "CalendarList": "Calendar Sports",
+      "BookingList": "Booking Sports"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200007",
+      "Page": "https://puma.sharepoint.com/sites/200007/SitePages/Archive-Visits.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "03f3befd-5223-4a9f-a8a0-aa181007be1f",
+      "CalendarList": "Calendar_Archive",
+      "BookingList": "Booking_Archive"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200007",
+      "Page": "https://puma.sharepoint.com/sites/200007/SitePages/Bridge-Tours.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ff070f61-f8c8-477b-9328-ff03674e7289",
+      "CalendarList": "Calendar_Bridge",
+      "BookingList": "Booking_Bridge"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200066",
+      "Page": "https://puma.sharepoint.com/sites/200066/SitePages/Bubble.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f921b0c0-c501-4e4e-ba22-ab53ac208942",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100140",
+      "Page": "https://puma.sharepoint.com/sites/100140/SitePages/Homepage.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "2c463ee1-5593-4e96-aad2-1bbc9c12595e",
+      "CalendarList": "Event Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100140",
+      "Page": "https://puma.sharepoint.com/sites/100140/SitePages/TestPage.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ce3c5522-1dea-4f2c-8e26-974273338df1",
+      "CalendarList": "Calendar1",
+      "BookingList": "Booking1"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200064",
+      "Page": "https://puma.sharepoint.com/sites/200064/SitePages/Formations-IT.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "88251e7c-8de2-4234-9a7f-e1e2bfaa0160",
+      "CalendarList": "Calendar_formations",
+      "BookingList": "Booking_formation"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100066",
+      "Page": "https://puma.sharepoint.com/sites/100066/SitePages/VRT-Onboarding.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "20477573-d8ce-420e-b549-0b922945ef50",
+      "CalendarList": "VRT Calendar",
+      "BookingList": "VRT Trainings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200051",
+      "Page": "https://puma.sharepoint.com/sites/200051/SitePages/ILP%C2%B2-Enrollment-Registration.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f8e41339-cf74-45d9-a87e-792dc8286be2",
+      "CalendarList": "ILP2 events calendar",
+      "BookingList": "ILP2 event bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200051",
+      "Page": "https://puma.sharepoint.com/sites/200051/SitePages/ILP-Enrollment.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e8e60772-4a05-4cad-b6e0-2c7ed18e2456",
+      "CalendarList": "ILP events calendar",
+      "BookingList": "ILP event bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300003",
+      "Page": "https://puma.sharepoint.com/sites/d-300003/SitePages/Booking-Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "92450a7e-ed89-4c18-a16a-5bad057e9265",
+      "CalendarList": "Foo Calendar",
+      "BookingList": "Foo Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Q%26A-on-Teams-Avatars.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "21c9dd08-00ac-48bc-a7d8-665114ce73c2",
+      "CalendarList": "Calendar Questions and Answers Teams Avatar",
+      "BookingList": "Booking Questions and Answers Teams Avatar"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Test-Page-Vlad.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "64e760e1-771a-4c5f-ae51-7421c0dda857",
+      "CalendarList": "Calendar Test Vlad",
+      "BookingList": "Booking Test Vlad"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Adobe%20sign/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "65ba6dd1-892a-45c2-a7e4-81023dbc2493",
+      "CalendarList": "Calendar Adobe ",
+      "BookingList": "Booking Adobe"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Q%26A-on-Teams-Avatars.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "21c9dd08-00ac-48bc-a7d8-665114ce73c2",
+      "CalendarList": "Calendar Questions and Answers Teams Avatar",
+      "BookingList": "Booking Questions and Answers Teams Avatar"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Test-Page-Vlad.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "64e760e1-771a-4c5f-ae51-7421c0dda857",
+      "CalendarList": "Calendar Test Vlad",
+      "BookingList": "Booking Test Vlad"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Adobe%20sign/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "65ba6dd1-892a-45c2-a7e4-81023dbc2493",
+      "CalendarList": "Calendar Adobe ",
+      "BookingList": "Booking Adobe"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Q%26A-on-Teams-Avatars.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "21c9dd08-00ac-48bc-a7d8-665114ce73c2",
+      "CalendarList": "Calendar Questions and Answers Teams Avatar",
+      "BookingList": "Booking Questions and Answers Teams Avatar"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Test-Page-Vlad.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "64e760e1-771a-4c5f-ae51-7421c0dda857",
+      "CalendarList": "Calendar Test Vlad",
+      "BookingList": "Booking Test Vlad"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Adobe%20sign/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "65ba6dd1-892a-45c2-a7e4-81023dbc2493",
+      "CalendarList": "Calendar Adobe ",
+      "BookingList": "Booking Adobe"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Q%26A-on-Teams-Avatars.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "21c9dd08-00ac-48bc-a7d8-665114ce73c2",
+      "CalendarList": "Calendar Questions and Answers Teams Avatar",
+      "BookingList": "Booking Questions and Answers Teams Avatar"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Test-Page-Vlad.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "64e760e1-771a-4c5f-ae51-7421c0dda857",
+      "CalendarList": "Calendar Test Vlad",
+      "BookingList": "Booking Test Vlad"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Adobe%20sign/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "65ba6dd1-892a-45c2-a7e4-81023dbc2493",
+      "CalendarList": "Calendar Adobe ",
+      "BookingList": "Booking Adobe"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Q%26A-on-Teams-Avatars.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "21c9dd08-00ac-48bc-a7d8-665114ce73c2",
+      "CalendarList": "Calendar Questions and Answers Teams Avatar",
+      "BookingList": "Booking Questions and Answers Teams Avatar"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Test-Page-Vlad.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "64e760e1-771a-4c5f-ae51-7421c0dda857",
+      "CalendarList": "Calendar Test Vlad",
+      "BookingList": "Booking Test Vlad"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Adobe%20sign/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "65ba6dd1-892a-45c2-a7e4-81023dbc2493",
+      "CalendarList": "Calendar Adobe ",
+      "BookingList": "Booking Adobe"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Q%26A-on-Teams-Avatars.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "21c9dd08-00ac-48bc-a7d8-665114ce73c2",
+      "CalendarList": "Calendar Questions and Answers Teams Avatar",
+      "BookingList": "Booking Questions and Answers Teams Avatar"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Test-Page-Vlad.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "64e760e1-771a-4c5f-ae51-7421c0dda857",
+      "CalendarList": "Calendar Test Vlad",
+      "BookingList": "Booking Test Vlad"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/Adobe%20sign/Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "65ba6dd1-892a-45c2-a7e4-81023dbc2493",
+      "CalendarList": "Calendar Adobe ",
+      "BookingList": "Booking Adobe"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/howto",
+      "Page": "https://puma.sharepoint.com/sites/howto/SitePages/What-is-LOOP-.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "acd2a03e-5afa-40ea-8e5d-8f6d56767cba",
+      "CalendarList": "Calendar LOOP Workshop",
+      "BookingList": "Booking LOOP Workshop"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/T-400000",
+      "Page": "https://puma.sharepoint.com/sites/T-400000/SitePages/1.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "f5e2a2e1-04cf-40aa-bc66-34199bcc60cb",
+      "CalendarList": "Calendar321",
+      "BookingList": "Booking321"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300922",
+      "Page": "https://puma.sharepoint.com/sites/d-300922/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a845fb30-c0bb-4991-aab0-e385961175f8",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300922",
+      "Page": "https://puma.sharepoint.com/sites/d-300922/SitePages/Booking-App.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a3c815a8-0ac6-49c5-a8fc-3fef2e3e8843",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300922",
+      "Page": "https://puma.sharepoint.com/sites/d-300922/SitePages/Booking-Old-Version.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "666c1129-d9a3-4018-afc3-da4825a0cc17",
+      "CalendarList": "CalendarHNA",
+      "BookingList": "BookingHNA"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200203",
+      "Page": "https://puma.sharepoint.com/sites/200203/SitePages/FAQ.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d29e3730-6c00-4cd4-b9b5-91e7faa2bae4",
+      "CalendarList": "TestSchedule",
+      "BookingList": "TestBooking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-Global-Project-MS-Teams",
+      "Page": "https://puma.sharepoint.com/sites/GRP-Global-Project-MS-Teams/SitePages/Microsoft-Teams---IT-Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "6fd680dd-bb0c-406c-aeb7-9b0c958ad322",
+      "CalendarList": "Schedule",
+      "BookingList": "Bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-Global-Connect-at-PUMA-Superheroes",
+      "Page": "https://puma.sharepoint.com/sites/GRP-Global-Connect-at-PUMA-Superheroes/SitePages/Connect@PUMA---Superhoeroes-Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e248f2d6-0a7c-4fb3-8d2b-2cee0fc145f9",
+      "CalendarList": "Superheroes Trainings",
+      "BookingList": "Booking List"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200314",
+      "Page": "https://puma.sharepoint.com/sites/200314/SitePages/Web-Part-Booking-TEST.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "10797aa0-91dd-40f2-b1dd-833a584cacec",
+      "CalendarList": "Calendar TEst",
+      "BookingList": "Booking test test"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300007",
+      "Page": "https://puma.sharepoint.com/sites/d-300007/SitePages/Booking-v2.0.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "2f44eb99-29e1-4126-ae80-1d1f8c7fb589",
+      "CalendarList": "CalendarV2.0",
+      "BookingList": "BookingV2.0"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300007",
+      "Page": "https://puma.sharepoint.com/sites/d-300007/SitePages/Test(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "c33b3e82-2910-4f3a-8e73-e8248ca9258b",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300007",
+      "Page": "https://puma.sharepoint.com/sites/d-300007/SitePages/TestPage.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9ee2c89c-9723-4a26-bdcf-3dbc3cc38912",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100183",
+      "Page": "https://puma.sharepoint.com/sites/100183/SitePages/Cecifoot.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "6dddfde2-1a89-441e-888b-2db8ebad61bf",
+      "CalendarList": "Calendar_cecifoot",
+      "BookingList": "Booking_cecifoot"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100183",
+      "Page": "https://puma.sharepoint.com/sites/100183/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a6257188-e7d9-40be-88f3-e22f3d02e035",
+      "CalendarList": "TrainingFR",
+      "BookingList": "RegistrationFR"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/100183",
+      "Page": "https://puma.sharepoint.com/sites/100183/SitePages/WHAT%27S-UP.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ab245004-56f8-4931-9876-e81509aef97d",
+      "CalendarList": "Whatsup_Calendar",
+      "BookingList": "Whatsup_Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200011",
+      "Page": "https://puma.sharepoint.com/sites/200011/SitePages/Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a211f0bd-16ec-4ddd-a048-d9ce619cce6e",
+      "CalendarList": "Calendar1",
+      "BookingList": "Booking1"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300012",
+      "Page": "https://puma.sharepoint.com/sites/d-300012/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "0c56a441-40ae-4977-891d-bad3164d0962",
+      "CalendarList": "GymSchedule",
+      "BookingList": "GymBooking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/d-300012",
+      "Page": "https://puma.sharepoint.com/sites/d-300012/SitePages/Booking-By-App05.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "b9b7e6c5-294f-4846-9e55-aa9582211f7c",
+      "CalendarList": "CalendarApp05-01",
+      "BookingList": "BookingApp05-01"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-HERITInfrastructure%26Services",
+      "Page": "https://puma.sharepoint.com/sites/GRP-HERITInfrastructure%26Services/SitePages/Booking_Test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "c6370fa2-c7f0-4e4c-8359-ca9e3e006a56",
+      "CalendarList": "Calendar2",
+      "BookingList": "Booking2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200307",
+      "Page": "https://puma.sharepoint.com/sites/200307/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "caae4adb-1fd7-4f51-8f24-81567d50dca4",
+      "CalendarList": "Calendar - Compliance in-person Training ",
+      "BookingList": "Booking for Compliance in-person Training"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GRP-HER-IT-Service-Delivery",
+      "Page": "https://puma.sharepoint.com/sites/GRP-HER-IT-Service-Delivery/SitePages/Testbookings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "8a2909c9-d6eb-4648-8ef5-a082d1303340",
+      "CalendarList": "IT Service Delivery",
+      "BookingList": "Notebook exchange"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200010",
+      "Page": "https://puma.sharepoint.com/sites/200010/SitePages/IT-Bytesize-training---Dec-18,-20-and-21,-2023.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "522ea6f7-7ede-4a3f-b479-4d97c7607eed",
+      "CalendarList": "Bytesize Calendar",
+      "BookingList": "Bytesize Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200010",
+      "Page": "https://puma.sharepoint.com/sites/200010/SitePages/IT-Bytesize-Training---Nov-27-29.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "522ea6f7-7ede-4a3f-b479-4d97c7607eed",
+      "CalendarList": "Bytesize Calendar",
+      "BookingList": "Bytesize Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200010",
+      "Page": "https://puma.sharepoint.com/sites/200010/SitePages/IT-Bytesize-Training---October-30-31,-2023.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "522ea6f7-7ede-4a3f-b479-4d97c7607eed",
+      "CalendarList": "Bytesize Calendar",
+      "BookingList": "Bytesize Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200010",
+      "Page": "https://puma.sharepoint.com/sites/200010/SitePages/Microsoft-Teams-features-training-for-SGN.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5d52519d-f1aa-4bd2-a982-6f9bab5b5d22",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200010",
+      "Page": "https://puma.sharepoint.com/sites/200010/SitePages/Suggestion-Box-for-IT.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "37030514-d08d-48f9-9902-027dc556443e",
+      "CalendarList": "Calendar - the Bytesize Training Test 1",
+      "BookingList": "Booking - the Bytesize Training Test 1"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200069",
+      "Page": "https://puma.sharepoint.com/sites/200069/SitePages/Infrastructure-Site.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1fbfeef0-2477-4ea5-bac8-02d9c0732abb",
+      "CalendarList": "ListaCalendarioIT",
+      "BookingList": "BookingListaIT"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200345",
+      "Page": "https://puma.sharepoint.com/sites/200345/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "05727307-e8b5-46f6-9052-8d2d0880fe9d",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200062",
+      "Page": "https://puma.sharepoint.com/sites/200062/SitePages/SPORT.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "354faf21-cacb-4210-b4c3-249a534bf5bd",
+      "CalendarList": "Sport_Calendar",
+      "BookingList": "Sport_Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200062",
+      "Page": "https://puma.sharepoint.com/sites/200062/SitePages/Wellbeing.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d982a78c-93c8-410a-91f6-52ca1a724ed2",
+      "CalendarList": "Calendar_wellbeing",
+      "BookingList": "Booking_wellbeing"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200027",
+      "Page": "https://puma.sharepoint.com/sites/200027/SitePages/Home.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d079c610-6200-48bb-917e-c68b70664b81",
+      "CalendarList": "PUMAZA_General_CalendarV4",
+      "BookingList": "PUMAZA_AppBooking_General_BookingLIstV4"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/Future_Workplace_IT_Admin_Portal",
+      "Page": "https://puma.sharepoint.com/sites/Future_Workplace_IT_Admin_Portal/SitePages/Edit-your-videos-like-a-Pro--Clipchamp-at-Your-Fingertips!.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "bf50761b-1b47-4be5-872a-5d651531165f",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/Future_Workplace_IT_Admin_Portal",
+      "Page": "https://puma.sharepoint.com/sites/Future_Workplace_IT_Admin_Portal/SitePages/Viva-Engage-Roll-out(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "2d4ac322-31ba-4da1-aeb5-1f9581591d86",
+      "CalendarList": "Calendar_Viva Engage IT Onboarding sessions",
+      "BookingList": "Booking_Viva Engage IT Onboarding sessions"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Advanced-Aternity-Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "b40637b1-320a-4f0d-a909-b36bc88f48ba",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Aternity-Trainings(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "4a4fdddd-f6d4-4599-b59b-2e2603dad99d",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Aternity-Trainings.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "0fc2ed7e-60c1-4c65-a220-9e1ffa609ad5",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Book-your-slot-now!.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "be80863e-2eaa-4952-bbef-66791ed73bb2",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Book-your-spot!-Attend-the-IT-Security-Basecamp.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e5ed48d9-d985-4c44-bb3c-ac9bce198631",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Global-IT-Infr(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "fa8da6e9-4f0a-4191-b84b-ea0705a047f9",
+      "CalendarList": "Calendar Training Week 2023",
+      "BookingList": "Booking Training Week 2023"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Global-IT-Infrastructure-Training-Week-2023.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "90f27fe4-4ad4-4458-9f64-85d480445e43",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IDcat-notifications.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "6f025df1-df64-4861-804b-564394a93203",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT(1).aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "71bdab7e-fc2a-407c-9c8b-1f13e1cc8aeb",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Infrastructure-Training-Week.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "90f27fe4-4ad4-4458-9f64-85d480445e43",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Basecamp.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a0494d63-999e-417a-8841-179f11e3d529",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Call---April-2021---Current-Cyber-Threat-Landscape.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "dd6adcfe-7260-4555-8001-ae912f2cba4c",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Call---December-2023.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1a1e3d52-82bd-43ee-8b43-5f9162de2c24",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-SECURITY-CALL---FEBRUARY-2021.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "325a920f-db68-46ea-86b6-a2b9dea91247",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Call---February-28th---IT-Security-Dashboard.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "34c3ff5c-101e-46f7-9d28-7a1892c3f957",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-SECURITY-CALL---JANUARY-2021.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "87490da6-d6b8-43d3-845d-94fd463bf293",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-SECURITY-CALL---MARCH-2021.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d51efd28-0438-411d-9ea8-7ef944869bbf",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Call---March-2023.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "a4cce1e0-4b19-47e9-971d-dc3326d99015",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Call---May-2021---Data-Classification.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "cc01d280-55f2-4b75-abf5-8b45b2932daf",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/IT-Security-Call---September-30th---IT-Sec.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "3b4e8922-ecf5-4af6-8338-472cfa7345be",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/GlobalITInfrastructure",
+      "Page": "https://puma.sharepoint.com/sites/GlobalITInfrastructure/SitePages/Sign-up-for-your-SIMon-Training-in-September!.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "c47623ec-aa52-45b4-9a19-0c2d4ce370d3",
+      "CalendarList": "Calendar2",
+      "BookingList": "Booking2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/NewsCenter",
+      "Page": "https://puma.sharepoint.com/sites/NewsCenter/SitePages/Edit-your-videos-like-a-Pro--Clipchamp-is-at-PUMA!.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "249bbe0e-2d24-43c7-9e72-d724c850fa72",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/NewsCenter",
+      "Page": "https://puma.sharepoint.com/sites/NewsCenter/SitePages/-Explore-the-Future---New-Microsoft-Teams-2.0.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "456f22fc-991a-45dc-9fe1-6c129a7e8333",
+      "CalendarList": "Calendar 2",
+      "BookingList": "Booking 2"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/B2Run-N%C3%BCrnberg---Get-together.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "26a9b336-9193-4f7a-aa2e-b94599afbffa",
+      "CalendarList": "B2Run Get-together 2024",
+      "BookingList": "Booking B2Run Get-together 2024"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Be-Well-Week-04.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "983bebc3-4cef-4d61-94e2-ccadf0b914e7",
+      "CalendarList": "Calendar BeWellWeek",
+      "BookingList": "Bookings BeWellWeek"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Be-Well-Week-25th---28th-of-October-2021.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "872c7fdf-cc53-4a5d-b8f4-b2d4c0ff488e",
+      "CalendarList": "Wellbeing Events",
+      "BookingList": "Wellbeing Events Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d2d2a5cd-4fd4-4b8a-90ef-1112368db3fa",
+      "CalendarList": "Sport Courses",
+      "BookingList": "Sports Courses Bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Courses.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ea153521-d087-4e33-8199-c43f46aa3c12",
+      "CalendarList": "Calendar Q1 Sports Courses 24",
+      "BookingList": "Booking Q1 Sports Courses 24"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Events.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "ac3ccdb5-a405-46ed-bf77-38527c2680f1",
+      "CalendarList": "Wellbeing Events",
+      "BookingList": "Wellbeing Events Booking New"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Hairdresser.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5df9e076-4520-469e-96be-d4032f769886",
+      "CalendarList": "Calendar",
+      "BookingList": "Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Hairdresser-Appointments.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "961cbe04-2e56-43ae-8030-7769a7af2b23",
+      "CalendarList": "Calendar HD",
+      "BookingList": "Booking HD"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Join-now--FOREVER.-BETTER.-WEEK-is-coming-to-Herzo!.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "368efc20-eacc-4bb9-82e4-fb47fa806b65",
+      "CalendarList": "FOREVER BETTER Week Tuesday 16 4",
+      "BookingList": "Behind the Factory Door Luke and Jade 16 4"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Join-now--FOREVER.-BETTER.-WEEK-is-coming-to-Herzo!.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "5e4d6a73-bf3b-41b2-8fb7-b171e80b44a2",
+      "CalendarList": "FOREVER. BETTER. Week Thursday Aishwarya",
+      "BookingList": "Re-suede the Reeboot"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Join-the-FOREVER.-YOU.-Talk-with-Maria-Valdes.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "77c77e94-16f9-4f3a-8171-d9ebde0a53ad",
+      "CalendarList": "FOREVERYOUTalk_Calendar",
+      "BookingList": "FOREVERYOUTalk_Booking"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Nutrition-Consultation.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "d0146fb8-da4d-40a8-9683-b07930a25c44",
+      "CalendarList": "Calendar Nutrition Consultation",
+      "BookingList": "Booking Nutrition Consultation"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/physio.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "573e250f-8313-4d8c-9d64-5b2436ccc8d1",
+      "CalendarList": "Calendar Physiotherapy",
+      "BookingList": "Booking Physiotherapy"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Physiotherapy-Red-Box.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "964f71ed-e59d-4705-95f3-73eac056898d",
+      "CalendarList": "Calendar Physio Red Box new",
+      "BookingList": "Booking Physio Red Box new"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/PUMA-Football-Championship-2024.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "26a9b336-9193-4f7a-aa2e-b94599afbffa",
+      "CalendarList": "B2Run Get-together 2024",
+      "BookingList": "Booking B2Run Get-together 2024"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/PUMA-Football-Championship-2024-After-Game-Get-Together.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "e85c3286-49ce-4624-b562-cc0bb0b5d6d6",
+      "CalendarList": "Calendar PUMA Football",
+      "BookingList": "Booking PUMA Football"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/test.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "1074ce98-c95d-4d73-86a7-fe76c4756152",
+      "CalendarList": "Wellbeing Events",
+      "BookingList": "Wellbeing Events Bookings"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Test-Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "9940310d-26e4-490e-9a01-8eb51ee3fac1",
+      "CalendarList": "Calendar Q1 Sports Courses 24",
+      "BookingList": "Booking Q1 Sports Courses 24"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/200309",
+      "Page": "https://puma.sharepoint.com/sites/200309/SitePages/Test-Review-for-Wellbeing-Week.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "983bebc3-4cef-4d61-94e2-ccadf0b914e7",
+      "CalendarList": "Calendar BeWellWeek",
+      "BookingList": "Bookings BeWellWeek"
+    },
+    {
+      "Site": "https://puma.sharepoint.com/sites/300900/spfx",
+      "Page": "https://puma.sharepoint.com/sites/300900/spfx/SitePages/Booking.aspx",
+      "WebpartName": "AppBooking",
+      "WebpartId": "bd8ba1cb-4465-4b55-90ce-2197fba117aa",
+      "CalendarList": "Calendar Test",
+      "BookingList": "Booking Test"
+    }
+  ]
+}
