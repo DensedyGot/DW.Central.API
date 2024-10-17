@@ -27,10 +27,12 @@ namespace DW.Central.API.Functions
         [Function("FlowMonitoring")]
         public async Task<IActionResult> RunAsync([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
         {
-            _logger.LogInformation("Started FlowMonitoring v4");
+            _logger.LogInformation("Started FlowMonitoring v5");
             try
             {
-                string[]? environmentUrls = _configuration["EnvironmentUrl"]?.Split(',');
+                //string[]? environmentUrls = _configuration["EnvironmentUrl"]?.Split(',');
+                string? environmentUrl = Environment.GetEnvironmentVariable("EnvironmentUrl");
+                string[]? environmentUrls = environmentUrl?.Split(',');
                 if (environmentUrls == null || environmentUrls.Length <= 1)
                 {
                     _logger.LogWarning("Environment URLs are not properly configured 1.");
