@@ -27,21 +27,23 @@ namespace DW.Central.API.Functions
         [Function("FlowMonitoring")]
         public async Task<IActionResult> RunAsync([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
         {
-            _logger.LogInformation("Started FlowMonitoring v5");
+            _logger.LogInformation("Started FlowMonitoring v6");
             try
             {
-                //string[]? environmentUrls = _configuration["EnvironmentUrl"]?.Split(',');
                 string? environmentUrl = Environment.GetEnvironmentVariable("EnvironmentUrl");
+                _logger.LogInformation("Environment URL: {EnvironmentUrl}", environmentUrl);
                 string[]? environmentUrls = environmentUrl?.Split(',');
                 if (environmentUrls == null || environmentUrls.Length <= 1)
                 {
-                    _logger.LogWarning("Environment URLs are not properly configured 1.");
+                    _logger.LogWarning("Environment URLs are not properly configured.");
                     return new BadRequestObjectResult("Environment URLs are not properly configured.");
                 }
+                _logger.LogInformation("Environment URL Split: {FirstEnvironmentUrl}", environmentUrls[0]);
                 string accessToken = await _tokenService.GetTokenFromCertificateAsync($"{environmentUrls[0]}/.default", _logger);
-                _logger.LogWarning("Access Token {AccessToken}", accessToken);
+                _logger.LogInformation("Access Token: {AccessToken}", accessToken);
 
                 string result = await _checkFlows.CheckFlowRunErrors(accessToken, environmentUrls[0], _logger);
+                _logger.LogInformation("Access Token: {AccessToken}", result);
 
                 return new OkObjectResult("Welcome to Azure Functions!");
             }
