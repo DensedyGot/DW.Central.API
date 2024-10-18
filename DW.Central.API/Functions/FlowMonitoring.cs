@@ -33,7 +33,7 @@ namespace DW.Central.API.Functions
                 string? environmentUrl = Environment.GetEnvironmentVariable("EnvironmentUrl");
                 _logger.LogInformation("Environment URL: {EnvironmentUrl}", environmentUrl);
                 string[]? environmentUrls = environmentUrl?.Split(',');
-                if (environmentUrls == null || environmentUrls.Length <= 1)
+                if (environmentUrls == null)
                 {
                     _logger.LogWarning("Environment URLs are not properly configured.");
                     return new BadRequestObjectResult("Environment URLs are not properly configured.");
