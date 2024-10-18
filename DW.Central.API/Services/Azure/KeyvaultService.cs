@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DW.Central.API.Services.Internal;
 using Microsoft.Extensions.Logging;
+using System.IO;
 
 namespace DW.Central.API.Services.Azure
 {
@@ -27,14 +28,20 @@ namespace DW.Central.API.Services.Azure
         {
             try
             {
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 1");
                 SecretClient secretClient = new SecretClient(new Uri(HostConfigurations.KeyVaultUrl), new DefaultAzureCredential());
-                CertificateClient certificateClient = new CertificateClient(vaultUri: new Uri(HostConfigurations.KeyVaultUrl), credential: new DefaultAzureCredential());
+                string kvPath = Environment.GetEnvironmentVariable("KVPATH") ?? throw new ArgumentNullException("KVPATH environment variable is not set.");
+                CertificateClient certificateClient = new CertificateClient(vaultUri: new Uri(kvPath), credential: new DefaultAzureCredential());
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 2 > {certificateClient.VaultUri}");
                 KeyVaultCertificateWithPolicy certificateWithPolicy = await certificateClient.GetCertificateAsync(HostConfigurations.CertificateName);
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 3 > {certificateWithPolicy.Name}");
                 await Task.Delay(2000);
                 KeyVaultSecret secret = await secretClient.GetSecretAsync(certificateWithPolicy.Name);
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 4 > {secret.Name}");
                 byte[] pfxBytes = Convert.FromBase64String(secret.Value);
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 5 > {pfxBytes.Length}");
                 X509Certificate2 x509Certificate = new X509Certificate2(pfxBytes, (string?)null, X509KeyStorageFlags.MachineKeySet | X509KeyStorageFlags.PersistKeySet | X509KeyStorageFlags.Exportable);
-
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 6 > {x509Certificate.SubjectName}");
                 return x509Certificate;
             }
             catch (Exception ex)

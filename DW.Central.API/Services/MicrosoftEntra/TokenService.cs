@@ -32,13 +32,17 @@ namespace DW.Central.API.Services.MicrosoftEntra
         {
             try
             {
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > Step 1");
                 string[] scopes = new string[] { scopeURL };
                 X509Certificate2 certificate = await keyvaultService.GetCertificateAsync(logger);
-                IConfidentialClientApplication azureApp = ConfidentialClientApplicationBuilder.Create($"{HostConfigurations.ClientId}")
-                        .WithAuthority(new Uri($"https://{HostConfigurations.AuthorityHost}/{HostConfigurations.TenantId}"))
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > Step 2 > {certificate.Thumbprint}");
+                IConfidentialClientApplication azureApp = ConfidentialClientApplicationBuilder.Create($"{Environment.GetEnvironmentVariable("CLIENTID")}")
+                        .WithAuthority(new Uri($"https://{Environment.GetEnvironmentVariable("AUTHORITYHOST")}/{Environment.GetEnvironmentVariable("TENANTID")}"))
                         .WithCertificate(certificate)
                         .Build();
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > Step 3 > {azureApp.Authority}");
                 AuthenticationResult authPromise = azureApp.AcquireTokenForClient(scopes).ExecuteAsync().GetAwaiter().GetResult();
+                logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > Step 4 > {authPromise.TenantId}");
                 return authPromise.AccessToken;
             }
             catch (Exception ex)
