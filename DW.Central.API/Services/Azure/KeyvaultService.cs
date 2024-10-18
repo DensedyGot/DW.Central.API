@@ -33,7 +33,7 @@ namespace DW.Central.API.Services.Azure
                 string kvPath = Environment.GetEnvironmentVariable("KVPATH") ?? throw new ArgumentNullException("KVPATH environment variable is not set.");
                 CertificateClient certificateClient = new CertificateClient(vaultUri: new Uri(kvPath), credential: new DefaultAzureCredential());
                 logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 2 > {certificateClient.VaultUri}");
-                KeyVaultCertificateWithPolicy certificateWithPolicy = await certificateClient.GetCertificateAsync(HostConfigurations.CertificateName);
+                KeyVaultCertificateWithPolicy certificateWithPolicy = await certificateClient.GetCertificateAsync(Environment.GetEnvironmentVariable("CERTIFICATENAME"));
                 logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > KeyvaultService.cs > GetCertificateAsync > Step 3 > {certificateWithPolicy.Name}");
                 await Task.Delay(2000);
                 KeyVaultSecret secret = await secretClient.GetSecretAsync(certificateWithPolicy.Name);
