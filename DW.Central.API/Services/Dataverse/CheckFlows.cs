@@ -21,7 +21,8 @@ namespace DW.Central.API.Services.Dataverse
             string last24HoursIso = last24Hours.ToString("o");
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 2");
             // Query for succeeded (statuscode = 1) and failed (statuscode = 2) flows in the last 24 hours
-            string requestUrl = $"{environmentUrl}/api/data/v9.1/systemjobs?$filter=(statuscode eq 1 or statuscode eq 2) and createdon ge {last24HoursIso}";
+            //string requestUrl = $"{environmentUrl}/api/data/v9.1/systemjobs?$filter=(statuscode eq 1 or statuscode eq 2) and createdon ge {last24HoursIso}";
+            string requestUrl = @"https://management.azure.com/providers/Microsoft.ProcessSimple/environments/Default-47ba06f1-76f9-4c6f-b5ad-7cd7af013ffe/flows/dcda08d3-2626-4c97-b207-eca6d676a13b/runs?api-version=2016-11-01";
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 3 > {requestUrl}");
 
             var httpClient = new HttpClient();
