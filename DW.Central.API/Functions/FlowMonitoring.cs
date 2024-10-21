@@ -39,7 +39,7 @@ namespace DW.Central.API.Functions
                     return new BadRequestObjectResult("Environment URLs are not properly configured.");
                 }
                 _logger.LogInformation("Environment URL Split: {FirstEnvironmentUrl}", environmentUrls[0]);
-                string accessToken = await _tokenService.GetTokenFromCertificateAsync($"{environmentUrls[0]}/.default", _logger);
+                string accessToken = await _tokenService.GetTokenFromCertificateAsync($"https://management.azure.com/.default", _logger);
                 _logger.LogInformation("Access Token: {AccessToken}", accessToken);
 
                 string result = await _checkFlows.CheckFlowRunErrors(accessToken, environmentUrls[0], _logger);
