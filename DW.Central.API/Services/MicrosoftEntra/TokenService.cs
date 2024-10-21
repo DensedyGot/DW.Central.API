@@ -42,7 +42,7 @@ namespace DW.Central.API.Services.MicrosoftEntra
                         .Build();
                 logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > Step 3 > {azureApp.Authority}");
                 //AuthenticationResult authPromise = azureApp.AcquireTokenForClient(scopes).ExecuteAsync().GetAwaiter().GetResult();
-                AuthenticationResult authPromise = await azureApp.AcquireTokenForClient(new string[] { "https://management.azure.com/.default" }).ExecuteAsync();
+                AuthenticationResult authPromise = await azureApp.AcquireTokenForClient(new string[] { "https://service.flow.microsoft.com/.default" }).ExecuteAsync();
                 logger.LogInformation($"FlowMonitoring > TokenService.cs = GetTokenFromCertificateAsync > Step 4 > {authPromise.TenantId}");
                 return authPromise.AccessToken;
             }
