@@ -32,10 +32,12 @@ namespace DW.Central.API.Services.Dataverse
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 5");
             if (!response.IsSuccessStatusCode)
             {
+                var responseBody = await response.Content.ReadAsStringAsync();
                 _logger.LogError("Failed to retrieve flow logs.");
-                _logger.LogError($"Failed to retrieve flow logs. Status Content: {response.Content.ReadAsStringAsync()}");
-                return $"Failed to retrieve flow logs. Status code: {response.StatusCode}";
+                _logger.LogError($"Failed to retrieve flow logs. Status Code: {response.StatusCode}, Response: {responseBody}");
+                return $"Failed to retrieve flow logs. Status code: {response.StatusCode}, Response: {responseBody}";
             }
+
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 6");
             var content = await response.Content.ReadAsStringAsync();
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 7 > {content}");
