@@ -5,7 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using Microsoft.Graph;
+using DW.Central.API.Models;
+using System.Text.Json;
 
 namespace DW.Central.API.Functions
 {
@@ -39,13 +40,19 @@ namespace DW.Central.API.Functions
                     return new BadRequestObjectResult("Environment URLs are not properly configured.");
                 }
                 _logger.LogInformation("Environment URL Split: {FirstEnvironmentUrl}", environmentUrls[0]);
-                string accessToken = await _tokenService.GetTokenFromCertificateAsync($"{environmentUrls[0]}/.default", _logger);
+                string accessToken = await _tokenService.GetTokenFromCertificateAsync($"https://service.flow.microsoft.com/.default", _logger);
                 _logger.LogInformation("Access Token: {AccessToken}", accessToken);
+                string environmentId = "Default-47ba06f1-76f9-4c6f-b5ad-7cd7af013ffe";
+                string flowId = "dcda08d3-2626-4c97-b207-eca6d676a13b";
+                IDataverseEnvironment dataverseEnvironment = new IDataverseEnvironment
+                {
+                    EnvironmentId = environmentId,
+                    FlowId = flowId
+                };
+                ICheckFlows result = await _checkFlows.CheckFlowRunErrors(accessToken, dataverseEnvironment, _logger);
+                _logger.LogInformation("Access Token: {AccessToken}", JsonSerializer.Serialize(result));
 
-                string result = await _checkFlows.CheckFlowRunErrors(accessToken, environmentUrls[0], _logger);
-                _logger.LogInformation("Access Token: {AccessToken}", result);
-
-                return new OkObjectResult("Welcome to Azure Functions!");
+                return new OkObjectResult(JsonSerializer.Serialize(result));
             }
             catch (Exception ex)
             {

@@ -1,4 +1,5 @@
 ﻿using DW.Central.API.Functions;
+using DW.Central.API.Models;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
@@ -13,7 +14,7 @@ namespace DW.Central.API.Services.Dataverse
     public class CheckFlows
     {
 
-        public async Task<string> CheckFlowRunErrors(string accessToken, string environmentUrl, ILogger _logger)
+        public async Task<ICheckFlows> CheckFlowRunErrors(string accessToken, IDataverseEnvironment dataverseEnvironment, ILogger _logger)
         {
             // Get the current UTC time and calculate the last 24 hours
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 1");
@@ -21,13 +22,7 @@ namespace DW.Central.API.Services.Dataverse
             DateTime last24Hours = utcNow.AddHours(-24);
             string last24HoursIso = last24Hours.ToString("o");
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 2");
-            // Query for succeeded (statuscode = 1) and failed (statuscode = 2) flows in the last 24 hours
-            //string requestUrl = $"{environmentUrl}/api/data/v9.1/systemjobs?$filter=(statuscode eq 1 or statuscode eq 2) and createdon ge {last24HoursIso}";
-            //string requestUrl = @"https://management.azure.com/providers/Microsoft.ProcessSimple/environments/Default-47ba06f1-76f9-4c6f-b5ad-7cd7af013ffe/flows/dcda08d3-2626-4c97-b207-eca6d676a13b/runs?api-version=2016-11-01";
-            //string requestUrl = $"https://api.flow.microsoft.com/environments/Default-47ba06f1-76f9-4c6f-b5ad-7cd7af013ffe/flows/dcda08d3-2626-4c97-b207-eca6d676a13b/runs";
-            string environmentId = "Default-47ba06f1-76f9-4c6f-b5ad-7cd7af013ffe";
-            string flowId = "dcda08d3-2626-4c97-b207-eca6d676a13b";
-            string requestUrl = $"https://api.flow.microsoft.com/providers/Microsoft.ProcessSimple/environments/{environmentId}/flows/{flowId}/runs?startTime={last24HoursIso}";
+            string requestUrl = $"https://api.flow.microsoft.com/providers/Microsoft.ProcessSimple/environments/{dataverseEnvironment.EnvironmentId}/flows/{dataverseEnvironment.FlowId}/runs?startTime={last24HoursIso}";
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 3 > {requestUrl}");
 
             var httpClient = new HttpClient();
@@ -39,7 +34,12 @@ namespace DW.Central.API.Services.Dataverse
             {
                 var responseBody = await response.Content.ReadAsStringAsync();
                 _logger.LogError($"Failed to retrieve flow logs. Status Code: {response.StatusCode}, Response: {responseBody}");
-                return $"Failed to retrieve flow logs. Status code: {response.StatusCode}, Response: {responseBody}";
+                return new ICheckFlows {
+                    successCount = 0,
+                    failureCount = 0,
+                    runningCount = 0,
+                    skippedCount = 0
+                };
             }
 
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 6");
@@ -50,20 +50,37 @@ namespace DW.Central.API.Services.Dataverse
             // Count successes and failures
             int successCount = 0;
             int failureCount = 0;
+            int runningCount = 0;
+            int skippedCount = 0;
 
             foreach (var item in logs.RootElement.GetProperty("value").EnumerateArray())
             {
-                var statuscode = item.GetProperty("statuscode").GetInt32();
-                if (statuscode == 1)
+                var statuscode = item.GetProperty("properties").GetProperty("status").GetRawText() ?? "none";
+                if (statuscode == "Succeeded")
                 {
                     successCount++;
                 }
-                else if (statuscode == 2)
+                else if (statuscode == "Failed")
                 {
                     failureCount++;
                 }
+                else if (statuscode == "Running")
+                {
+                    runningCount++;
+                }
+                else if (statuscode == "Skipped")
+                {
+                    skippedCount++;
+                }
             }
-            return $"Success Count: {successCount}, Failure Count: {failureCount}";
+            var checkFlows = new ICheckFlows
+            {
+                successCount = successCount,
+                failureCount = failureCount,
+                runningCount = runningCount,
+                skippedCount = skippedCount
+            };
+            return checkFlows;
         }
     }
 }
