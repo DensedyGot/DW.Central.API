@@ -9,6 +9,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using Microsoft.Graph;
 
 namespace DW.Central.API.Services.Dataverse
 {
@@ -46,7 +47,9 @@ namespace DW.Central.API.Services.Dataverse
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 6");
             var content = await response.Content.ReadAsStringAsync();
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 7 > {content}");
-            var logs = JsonDocument.Parse(content);
+            JsonDocument logs = JsonDocument.Parse(content);
+            _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 7.5 > {logs.RootElement.ToString()}");
+            JsonElement logsRoot = logs.RootElement;
 
             // Count successes and failures
             int successCount = 0;
@@ -54,27 +57,37 @@ namespace DW.Central.API.Services.Dataverse
             int runningCount = 0;
             int skippedCount = 0;
 
-            foreach (var item in logs.RootElement.GetProperty("value").EnumerateArray())
+            if (logsRoot.TryGetProperty("value", out JsonElement valueArray))
             {
-                _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 8 > {JsonConvert.SerializeObject(item)}");
-                var statuscode = item.GetProperty("properties").GetProperty("status").GetRawText() ?? "none";
-                if (statuscode == "Succeeded")
+                foreach (JsonElement item in valueArray.EnumerateArray())
                 {
-                    successCount++;
-                }
-                else if (statuscode == "Failed")
-                {
-                    failureCount++;
-                }
-                else if (statuscode == "Running")
-                {
-                    runningCount++;
-                }
-                else if (statuscode == "Skipped")
-                {
-                    skippedCount++;
+                    if (item.TryGetProperty("properties", out JsonElement properties))
+                    {
+                        if (properties.TryGetProperty("status", out JsonElement status))
+                        {
+                            Console.WriteLine($"Run Name: {item.GetProperty("name")}, Status: {status.GetString()}");
+                            var statuscode = status.GetString() ?? "none";
+                            if (statuscode == "Succeeded")
+                            {
+                                successCount++;
+                            }
+                            else if (statuscode == "Failed")
+                            {
+                                failureCount++;
+                            }
+                            else if (statuscode == "Running")
+                            {
+                                runningCount++;
+                            }
+                            else if (statuscode == "Skipped")
+                            {
+                                skippedCount++;
+                            }
+                        }
+                    }
                 }
             }
+
             var checkFlows = new ICheckFlows
             {
                 successCount = successCount,
