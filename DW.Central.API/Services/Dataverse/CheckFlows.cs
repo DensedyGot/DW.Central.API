@@ -63,9 +63,11 @@ namespace DW.Central.API.Services.Dataverse
                 {
                     if (item.TryGetProperty("properties", out JsonElement properties))
                     {
+                        properties.TryGetProperty("startTime", out JsonElement startTime);
+                        _logger.LogInformation($"Start Run Time: {startTime.GetString()}");
                         if (properties.TryGetProperty("status", out JsonElement status))
                         {
-                            Console.WriteLine($"Run Name: {item.GetProperty("name")}, Status: {status.GetString()}");
+                            _logger.LogInformation($"Run Name: {item.GetProperty("name")}, Status: {status.GetString()}");
                             var statuscode = status.GetString() ?? "none";
                             if (statuscode == "Succeeded")
                             {
