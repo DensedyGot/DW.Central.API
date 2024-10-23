@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace DW.Central.API.Services.Dataverse
 {
@@ -55,6 +56,7 @@ namespace DW.Central.API.Services.Dataverse
 
             foreach (var item in logs.RootElement.GetProperty("value").EnumerateArray())
             {
+                _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 8 > {JsonConvert.SerializeObject(item)}");
                 var statuscode = item.GetProperty("properties").GetProperty("status").GetRawText() ?? "none";
                 if (statuscode == "Succeeded")
                 {
