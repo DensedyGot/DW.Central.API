@@ -24,7 +24,7 @@ namespace DW.Central.API.Services.Dataverse
             DateTime last24Hours = utcNow.AddHours(-24);
             string last24HoursIso = last24Hours.ToString("o");
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 2 > {last24HoursIso}");
-            string requestUrl = $"https://api.flow.microsoft.com/providers/Microsoft.ProcessSimple/environments/{dataverseEnvironment.EnvironmentId}/flows/{dataverseEnvironment.FlowId}/runs?startTime={last24HoursIso}";
+            string requestUrl = $"https://api.flow.microsoft.com/providers/Microsoft.ProcessSimple/environments/{dataverseEnvironment.EnvironmentId}/flows/{dataverseEnvironment.FlowId}/runs?$filter=startTime ge {last24HoursIso}";
             _logger.LogInformation($"FlowMonitoring > CheckFlows.cs > CheckFloRunErrors > Step 3 > {requestUrl}");
 
             var httpClient = new HttpClient();
