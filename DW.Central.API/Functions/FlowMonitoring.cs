@@ -52,7 +52,7 @@ namespace DW.Central.API.Functions
                 ICheckFlows result = await _checkFlows.CheckFlowRunErrors(accessToken, dataverseEnvironment, _logger);
                 _logger.LogInformation("Access Token: {AccessToken}", JsonSerializer.Serialize(result));
 
-                return new OkObjectResult(JsonSerializer.Serialize(result));
+                return new OkObjectResult(result);
             }
             catch (Exception ex)
             {
