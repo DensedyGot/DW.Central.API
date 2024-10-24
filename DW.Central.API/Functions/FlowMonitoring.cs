@@ -26,7 +26,7 @@ namespace DW.Central.API.Functions
         }
 
         [Function("FlowMonitoring")]
-        public async Task<string> RunAsync([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
+        public async Task<IActionResult> RunAsync([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
         {
             _logger.LogInformation("Started FlowMonitoring v6");
             try
@@ -38,7 +38,7 @@ namespace DW.Central.API.Functions
                 {
                     _logger.LogWarning("Environment URLs are not properly configured.");
                     //return new BadRequestObjectResult("Environment URLs are not properly configured.");
-                    return "test";
+                    return new BadRequestObjectResult("Environment URLs are not properly configured.");
                 }
                 _logger.LogInformation("Environment URL Split: {FirstEnvironmentUrl}", environmentUrls[0]);
                 string accessToken = await _tokenService.GetTokenFromCertificateAsync($"https://service.flow.microsoft.com/.default", _logger);
@@ -54,13 +54,13 @@ namespace DW.Central.API.Functions
                 _logger.LogInformation("Access Token: {AccessToken}", JsonSerializer.Serialize(result));
 
                 //return new OkObjectResult(JsonSerializer.Serialize(result));
-                return "Suvvves";
+                return new OkObjectResult("dadadas");
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error in FlowMonitoring: {Message}", ex.Message);
                 //return new BadRequestObjectResult("Error in FlowMonitoring");
-                return "Error";
+                return new BadRequestObjectResult("Error in FlowMonitoring");
             }
         }
     }
