@@ -26,7 +26,7 @@ namespace DW.Central.API.Functions
         }
 
         [Function("FlowMonitoring")]
-        public async Task<IActionResult> RunAsync([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
+        public async Task<IActionResult> RunAsync([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequest req)
         {
             _logger.LogInformation("Started FlowMonitoring v6");
             try
