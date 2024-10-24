@@ -7,6 +7,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using DW.Central.API.Models;
 using System.Text.Json;
+using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Attributes;
+using Microsoft.OpenApi.Models;
+using System.Net;
 
 namespace DW.Central.API.Functions
 {
@@ -26,12 +29,14 @@ namespace DW.Central.API.Functions
         }
 
         [Function("FlowMonitoring")]
+        //[OpenApiOperation(operationId: "RunFlowMonitor")]
+        //[OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(ItemResponse), Description = "The OK response with an array of items")]
         public async Task<IActionResult> RunAsync([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequest req)
         {
             _logger.LogInformation("Started FlowMonitoring v6");
             try
             {
-                string? environmentUrl = Environment.GetEnvironmentVariable("EnvironmentUrl");
+                string? environmentUrl = req.Query["environmentid"];
                 _logger.LogInformation("Environment URL: {EnvironmentUrl}", environmentUrl);
                 string[]? environmentUrls = environmentUrl?.Split(',');
                 if (environmentUrls == null)
